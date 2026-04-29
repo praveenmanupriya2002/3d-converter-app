@@ -1,0 +1,692 @@
+[
+  {
+    "taskId": "67635568-43dc-49ad-b668-80d248ab2638",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/67635568-43dc-49ad-b668-80d248ab2638/tripo_pbr_model_67635568-43dc-49ad-b668-80d248ab2638.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvNjc2MzU1NjgtNDNkYy00OWFkLWI2NjgtODBkMjQ4YWIyNjM4L3RyaXBvX3Bicl9tb2RlbF82NzYzNTU2OC00M2RjLTQ5YWQtYjY2OC04MGQyNDhhYjI2MzguZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=gfhmwG0XLVNe7ODR8fsd3h6PjMrqisoZz~GH-OixONtHlKXaJ~Oo~ijc5i-oGNkijdiA7FStf8QkYb6jD1obXl2O97l61mJXBGbjwC0HyYMyruru4lgOlSGNjfl1u19OQi86D9zYCZS-MvDnu9kNa~EGjj48F~FKRv7FYtDF3P~Mrs~tiwmfHDt4rC3G3XqXQrej8847QrNOeZfHo31BK14cyCNzn6saQDWoZezdbaD1g78BZg9AJJCuuxzqgs9rcXKCQ3lMp1T1vzOn7ZdtwEQMhllj8TLwwR~R8qVBY8QkQ0BjcbG6NuVmAAZw1yVJV6amk9jSbSFTVcft9JEdsw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\67635568-43dc-49ad-b668-80d248ab2638.glb",
+    "createdAt": "2026-04-29T08:32:02.713Z"
+  },
+  {
+    "taskId": "67635568-43dc-49ad-b668-80d248ab2638",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/67635568-43dc-49ad-b668-80d248ab2638/tripo_pbr_model_67635568-43dc-49ad-b668-80d248ab2638.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvNjc2MzU1NjgtNDNkYy00OWFkLWI2NjgtODBkMjQ4YWIyNjM4L3RyaXBvX3Bicl9tb2RlbF82NzYzNTU2OC00M2RjLTQ5YWQtYjY2OC04MGQyNDhhYjI2MzguZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=gfhmwG0XLVNe7ODR8fsd3h6PjMrqisoZz~GH-OixONtHlKXaJ~Oo~ijc5i-oGNkijdiA7FStf8QkYb6jD1obXl2O97l61mJXBGbjwC0HyYMyruru4lgOlSGNjfl1u19OQi86D9zYCZS-MvDnu9kNa~EGjj48F~FKRv7FYtDF3P~Mrs~tiwmfHDt4rC3G3XqXQrej8847QrNOeZfHo31BK14cyCNzn6saQDWoZezdbaD1g78BZg9AJJCuuxzqgs9rcXKCQ3lMp1T1vzOn7ZdtwEQMhllj8TLwwR~R8qVBY8QkQ0BjcbG6NuVmAAZw1yVJV6amk9jSbSFTVcft9JEdsw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\67635568-43dc-49ad-b668-80d248ab2638.glb",
+    "createdAt": "2026-04-29T08:32:02.209Z"
+  },
+  {
+    "taskId": "67635568-43dc-49ad-b668-80d248ab2638",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/67635568-43dc-49ad-b668-80d248ab2638/tripo_pbr_model_67635568-43dc-49ad-b668-80d248ab2638.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvNjc2MzU1NjgtNDNkYy00OWFkLWI2NjgtODBkMjQ4YWIyNjM4L3RyaXBvX3Bicl9tb2RlbF82NzYzNTU2OC00M2RjLTQ5YWQtYjY2OC04MGQyNDhhYjI2MzguZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=gfhmwG0XLVNe7ODR8fsd3h6PjMrqisoZz~GH-OixONtHlKXaJ~Oo~ijc5i-oGNkijdiA7FStf8QkYb6jD1obXl2O97l61mJXBGbjwC0HyYMyruru4lgOlSGNjfl1u19OQi86D9zYCZS-MvDnu9kNa~EGjj48F~FKRv7FYtDF3P~Mrs~tiwmfHDt4rC3G3XqXQrej8847QrNOeZfHo31BK14cyCNzn6saQDWoZezdbaD1g78BZg9AJJCuuxzqgs9rcXKCQ3lMp1T1vzOn7ZdtwEQMhllj8TLwwR~R8qVBY8QkQ0BjcbG6NuVmAAZw1yVJV6amk9jSbSFTVcft9JEdsw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\67635568-43dc-49ad-b668-80d248ab2638.glb",
+    "createdAt": "2026-04-29T08:32:01.625Z"
+  },
+  {
+    "taskId": "67635568-43dc-49ad-b668-80d248ab2638",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/67635568-43dc-49ad-b668-80d248ab2638/tripo_pbr_model_67635568-43dc-49ad-b668-80d248ab2638.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvNjc2MzU1NjgtNDNkYy00OWFkLWI2NjgtODBkMjQ4YWIyNjM4L3RyaXBvX3Bicl9tb2RlbF82NzYzNTU2OC00M2RjLTQ5YWQtYjY2OC04MGQyNDhhYjI2MzguZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=gfhmwG0XLVNe7ODR8fsd3h6PjMrqisoZz~GH-OixONtHlKXaJ~Oo~ijc5i-oGNkijdiA7FStf8QkYb6jD1obXl2O97l61mJXBGbjwC0HyYMyruru4lgOlSGNjfl1u19OQi86D9zYCZS-MvDnu9kNa~EGjj48F~FKRv7FYtDF3P~Mrs~tiwmfHDt4rC3G3XqXQrej8847QrNOeZfHo31BK14cyCNzn6saQDWoZezdbaD1g78BZg9AJJCuuxzqgs9rcXKCQ3lMp1T1vzOn7ZdtwEQMhllj8TLwwR~R8qVBY8QkQ0BjcbG6NuVmAAZw1yVJV6amk9jSbSFTVcft9JEdsw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\67635568-43dc-49ad-b668-80d248ab2638.glb",
+    "createdAt": "2026-04-29T08:32:01.024Z"
+  },
+  {
+    "taskId": "67635568-43dc-49ad-b668-80d248ab2638",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/67635568-43dc-49ad-b668-80d248ab2638/tripo_pbr_model_67635568-43dc-49ad-b668-80d248ab2638.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvNjc2MzU1NjgtNDNkYy00OWFkLWI2NjgtODBkMjQ4YWIyNjM4L3RyaXBvX3Bicl9tb2RlbF82NzYzNTU2OC00M2RjLTQ5YWQtYjY2OC04MGQyNDhhYjI2MzguZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=gfhmwG0XLVNe7ODR8fsd3h6PjMrqisoZz~GH-OixONtHlKXaJ~Oo~ijc5i-oGNkijdiA7FStf8QkYb6jD1obXl2O97l61mJXBGbjwC0HyYMyruru4lgOlSGNjfl1u19OQi86D9zYCZS-MvDnu9kNa~EGjj48F~FKRv7FYtDF3P~Mrs~tiwmfHDt4rC3G3XqXQrej8847QrNOeZfHo31BK14cyCNzn6saQDWoZezdbaD1g78BZg9AJJCuuxzqgs9rcXKCQ3lMp1T1vzOn7ZdtwEQMhllj8TLwwR~R8qVBY8QkQ0BjcbG6NuVmAAZw1yVJV6amk9jSbSFTVcft9JEdsw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\67635568-43dc-49ad-b668-80d248ab2638.glb",
+    "createdAt": "2026-04-29T08:32:00.323Z"
+  },
+  {
+    "taskId": "67635568-43dc-49ad-b668-80d248ab2638",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/67635568-43dc-49ad-b668-80d248ab2638/tripo_pbr_model_67635568-43dc-49ad-b668-80d248ab2638.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvNjc2MzU1NjgtNDNkYy00OWFkLWI2NjgtODBkMjQ4YWIyNjM4L3RyaXBvX3Bicl9tb2RlbF82NzYzNTU2OC00M2RjLTQ5YWQtYjY2OC04MGQyNDhhYjI2MzguZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=gfhmwG0XLVNe7ODR8fsd3h6PjMrqisoZz~GH-OixONtHlKXaJ~Oo~ijc5i-oGNkijdiA7FStf8QkYb6jD1obXl2O97l61mJXBGbjwC0HyYMyruru4lgOlSGNjfl1u19OQi86D9zYCZS-MvDnu9kNa~EGjj48F~FKRv7FYtDF3P~Mrs~tiwmfHDt4rC3G3XqXQrej8847QrNOeZfHo31BK14cyCNzn6saQDWoZezdbaD1g78BZg9AJJCuuxzqgs9rcXKCQ3lMp1T1vzOn7ZdtwEQMhllj8TLwwR~R8qVBY8QkQ0BjcbG6NuVmAAZw1yVJV6amk9jSbSFTVcft9JEdsw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\67635568-43dc-49ad-b668-80d248ab2638.glb",
+    "createdAt": "2026-04-29T08:31:59.079Z"
+  },
+  {
+    "taskId": "67635568-43dc-49ad-b668-80d248ab2638",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/67635568-43dc-49ad-b668-80d248ab2638/tripo_pbr_model_67635568-43dc-49ad-b668-80d248ab2638.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvNjc2MzU1NjgtNDNkYy00OWFkLWI2NjgtODBkMjQ4YWIyNjM4L3RyaXBvX3Bicl9tb2RlbF82NzYzNTU2OC00M2RjLTQ5YWQtYjY2OC04MGQyNDhhYjI2MzguZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=gfhmwG0XLVNe7ODR8fsd3h6PjMrqisoZz~GH-OixONtHlKXaJ~Oo~ijc5i-oGNkijdiA7FStf8QkYb6jD1obXl2O97l61mJXBGbjwC0HyYMyruru4lgOlSGNjfl1u19OQi86D9zYCZS-MvDnu9kNa~EGjj48F~FKRv7FYtDF3P~Mrs~tiwmfHDt4rC3G3XqXQrej8847QrNOeZfHo31BK14cyCNzn6saQDWoZezdbaD1g78BZg9AJJCuuxzqgs9rcXKCQ3lMp1T1vzOn7ZdtwEQMhllj8TLwwR~R8qVBY8QkQ0BjcbG6NuVmAAZw1yVJV6amk9jSbSFTVcft9JEdsw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\67635568-43dc-49ad-b668-80d248ab2638.glb",
+    "createdAt": "2026-04-29T08:31:55.166Z"
+  },
+  {
+    "taskId": "bc9f1f0a-21d1-4ab0-8653-f73d287c02b3",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/bc9f1f0a-21d1-4ab0-8653-f73d287c02b3/tripo_pbr_model_bc9f1f0a-21d1-4ab0-8653-f73d287c02b3.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvYmM5ZjFmMGEtMjFkMS00YWIwLTg2NTMtZjczZDI4N2MwMmIzL3RyaXBvX3Bicl9tb2RlbF9iYzlmMWYwYS0yMWQxLTRhYjAtODY1My1mNzNkMjg3YzAyYjMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=fMhXZu5E95v0Ue~p4m~xY5xWA8q-71E5JX2~ZoBb4Nd~Cq8sB2m1ELGlwsE5t~jeR~CsKkNrZ0mjQlMmY8jlADs9I8LJFBG0H7Ax83ll2GvFusdr3sD37BsNtcPJrPGLmDpq7yyClkEBruTZIeG6y~-Pe5kheS5~svMyUXA3KRGH9KT7ntKp3c6fy2F2Ohx0HTnJvmnl5rYHYVy4ZhMCp82OGSsdChXcNxBhRapESYxJCVEl1cpgPaHUOKDP5V0n5UjAtEjlFYiSpZGvYJr6T5qwAURcBD9v4pN0tAAoDFQbwvQz0LHC3BlsZ~LLOWbfsAfYrVCRaof45leBncB61g__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\bc9f1f0a-21d1-4ab0-8653-f73d287c02b3.glb",
+    "createdAt": "2026-04-29T06:32:48.181Z"
+  },
+  {
+    "taskId": "bc9f1f0a-21d1-4ab0-8653-f73d287c02b3",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/bc9f1f0a-21d1-4ab0-8653-f73d287c02b3/tripo_pbr_model_bc9f1f0a-21d1-4ab0-8653-f73d287c02b3.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvYmM5ZjFmMGEtMjFkMS00YWIwLTg2NTMtZjczZDI4N2MwMmIzL3RyaXBvX3Bicl9tb2RlbF9iYzlmMWYwYS0yMWQxLTRhYjAtODY1My1mNzNkMjg3YzAyYjMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=fMhXZu5E95v0Ue~p4m~xY5xWA8q-71E5JX2~ZoBb4Nd~Cq8sB2m1ELGlwsE5t~jeR~CsKkNrZ0mjQlMmY8jlADs9I8LJFBG0H7Ax83ll2GvFusdr3sD37BsNtcPJrPGLmDpq7yyClkEBruTZIeG6y~-Pe5kheS5~svMyUXA3KRGH9KT7ntKp3c6fy2F2Ohx0HTnJvmnl5rYHYVy4ZhMCp82OGSsdChXcNxBhRapESYxJCVEl1cpgPaHUOKDP5V0n5UjAtEjlFYiSpZGvYJr6T5qwAURcBD9v4pN0tAAoDFQbwvQz0LHC3BlsZ~LLOWbfsAfYrVCRaof45leBncB61g__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\bc9f1f0a-21d1-4ab0-8653-f73d287c02b3.glb",
+    "createdAt": "2026-04-29T06:32:47.698Z"
+  },
+  {
+    "taskId": "bc9f1f0a-21d1-4ab0-8653-f73d287c02b3",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/bc9f1f0a-21d1-4ab0-8653-f73d287c02b3/tripo_pbr_model_bc9f1f0a-21d1-4ab0-8653-f73d287c02b3.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvYmM5ZjFmMGEtMjFkMS00YWIwLTg2NTMtZjczZDI4N2MwMmIzL3RyaXBvX3Bicl9tb2RlbF9iYzlmMWYwYS0yMWQxLTRhYjAtODY1My1mNzNkMjg3YzAyYjMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=fMhXZu5E95v0Ue~p4m~xY5xWA8q-71E5JX2~ZoBb4Nd~Cq8sB2m1ELGlwsE5t~jeR~CsKkNrZ0mjQlMmY8jlADs9I8LJFBG0H7Ax83ll2GvFusdr3sD37BsNtcPJrPGLmDpq7yyClkEBruTZIeG6y~-Pe5kheS5~svMyUXA3KRGH9KT7ntKp3c6fy2F2Ohx0HTnJvmnl5rYHYVy4ZhMCp82OGSsdChXcNxBhRapESYxJCVEl1cpgPaHUOKDP5V0n5UjAtEjlFYiSpZGvYJr6T5qwAURcBD9v4pN0tAAoDFQbwvQz0LHC3BlsZ~LLOWbfsAfYrVCRaof45leBncB61g__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\bc9f1f0a-21d1-4ab0-8653-f73d287c02b3.glb",
+    "createdAt": "2026-04-29T06:32:47.162Z"
+  },
+  {
+    "taskId": "bc9f1f0a-21d1-4ab0-8653-f73d287c02b3",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/bc9f1f0a-21d1-4ab0-8653-f73d287c02b3/tripo_pbr_model_bc9f1f0a-21d1-4ab0-8653-f73d287c02b3.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvYmM5ZjFmMGEtMjFkMS00YWIwLTg2NTMtZjczZDI4N2MwMmIzL3RyaXBvX3Bicl9tb2RlbF9iYzlmMWYwYS0yMWQxLTRhYjAtODY1My1mNzNkMjg3YzAyYjMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=fMhXZu5E95v0Ue~p4m~xY5xWA8q-71E5JX2~ZoBb4Nd~Cq8sB2m1ELGlwsE5t~jeR~CsKkNrZ0mjQlMmY8jlADs9I8LJFBG0H7Ax83ll2GvFusdr3sD37BsNtcPJrPGLmDpq7yyClkEBruTZIeG6y~-Pe5kheS5~svMyUXA3KRGH9KT7ntKp3c6fy2F2Ohx0HTnJvmnl5rYHYVy4ZhMCp82OGSsdChXcNxBhRapESYxJCVEl1cpgPaHUOKDP5V0n5UjAtEjlFYiSpZGvYJr6T5qwAURcBD9v4pN0tAAoDFQbwvQz0LHC3BlsZ~LLOWbfsAfYrVCRaof45leBncB61g__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\bc9f1f0a-21d1-4ab0-8653-f73d287c02b3.glb",
+    "createdAt": "2026-04-29T06:32:46.596Z"
+  },
+  {
+    "taskId": "bc9f1f0a-21d1-4ab0-8653-f73d287c02b3",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/bc9f1f0a-21d1-4ab0-8653-f73d287c02b3/tripo_pbr_model_bc9f1f0a-21d1-4ab0-8653-f73d287c02b3.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvYmM5ZjFmMGEtMjFkMS00YWIwLTg2NTMtZjczZDI4N2MwMmIzL3RyaXBvX3Bicl9tb2RlbF9iYzlmMWYwYS0yMWQxLTRhYjAtODY1My1mNzNkMjg3YzAyYjMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=fMhXZu5E95v0Ue~p4m~xY5xWA8q-71E5JX2~ZoBb4Nd~Cq8sB2m1ELGlwsE5t~jeR~CsKkNrZ0mjQlMmY8jlADs9I8LJFBG0H7Ax83ll2GvFusdr3sD37BsNtcPJrPGLmDpq7yyClkEBruTZIeG6y~-Pe5kheS5~svMyUXA3KRGH9KT7ntKp3c6fy2F2Ohx0HTnJvmnl5rYHYVy4ZhMCp82OGSsdChXcNxBhRapESYxJCVEl1cpgPaHUOKDP5V0n5UjAtEjlFYiSpZGvYJr6T5qwAURcBD9v4pN0tAAoDFQbwvQz0LHC3BlsZ~LLOWbfsAfYrVCRaof45leBncB61g__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\bc9f1f0a-21d1-4ab0-8653-f73d287c02b3.glb",
+    "createdAt": "2026-04-29T06:32:46.092Z"
+  },
+  {
+    "taskId": "bc9f1f0a-21d1-4ab0-8653-f73d287c02b3",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/bc9f1f0a-21d1-4ab0-8653-f73d287c02b3/tripo_pbr_model_bc9f1f0a-21d1-4ab0-8653-f73d287c02b3.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvYmM5ZjFmMGEtMjFkMS00YWIwLTg2NTMtZjczZDI4N2MwMmIzL3RyaXBvX3Bicl9tb2RlbF9iYzlmMWYwYS0yMWQxLTRhYjAtODY1My1mNzNkMjg3YzAyYjMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=fMhXZu5E95v0Ue~p4m~xY5xWA8q-71E5JX2~ZoBb4Nd~Cq8sB2m1ELGlwsE5t~jeR~CsKkNrZ0mjQlMmY8jlADs9I8LJFBG0H7Ax83ll2GvFusdr3sD37BsNtcPJrPGLmDpq7yyClkEBruTZIeG6y~-Pe5kheS5~svMyUXA3KRGH9KT7ntKp3c6fy2F2Ohx0HTnJvmnl5rYHYVy4ZhMCp82OGSsdChXcNxBhRapESYxJCVEl1cpgPaHUOKDP5V0n5UjAtEjlFYiSpZGvYJr6T5qwAURcBD9v4pN0tAAoDFQbwvQz0LHC3BlsZ~LLOWbfsAfYrVCRaof45leBncB61g__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\bc9f1f0a-21d1-4ab0-8653-f73d287c02b3.glb",
+    "createdAt": "2026-04-29T06:32:44.692Z"
+  },
+  {
+    "taskId": "e8e03a95-8ade-4bb5-9da6-e68251bdac32",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/e8e03a95-8ade-4bb5-9da6-e68251bdac32/tripo_pbr_model_e8e03a95-8ade-4bb5-9da6-e68251bdac32.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvZThlMDNhOTUtOGFkZS00YmI1LTlkYTYtZTY4MjUxYmRhYzMyL3RyaXBvX3Bicl9tb2RlbF9lOGUwM2E5NS04YWRlLTRiYjUtOWRhNi1lNjgyNTFiZGFjMzIuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=AoX4znOUGPwQ59rkcORoSx1I7C7UQWP-hYUUiEGhlJsZME8d5P5~8R7H7SLODBsAMy2AvYkWj7VNH66VB4-6ID~M0vlbz~30lIzOBmYHk-TEuh91ewsBhKDpdQqwLd3tYtZnJomitHHHOjFummubTkscuPUbymrwfAmmEw1xfJIkHiwIt6b-iS6rzBI0K66IxPlZbZQXX8Tgd8EGF~b6M0rRxFO5Yg2NdW~zKFa~aSAQp2dghlmEI6AMrH1pFfYRZvqDBqSfPbfTJJrNDPjF8Fh4gijGUdWiHxQ50-CLHALBgWWS2gTvRKoYK8QoKUbe5G~WEKFAMrOzLhDkXllc7A__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\e8e03a95-8ade-4bb5-9da6-e68251bdac32.glb",
+    "createdAt": "2026-04-29T05:16:11.619Z"
+  },
+  {
+    "taskId": "e8e03a95-8ade-4bb5-9da6-e68251bdac32",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/e8e03a95-8ade-4bb5-9da6-e68251bdac32/tripo_pbr_model_e8e03a95-8ade-4bb5-9da6-e68251bdac32.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvZThlMDNhOTUtOGFkZS00YmI1LTlkYTYtZTY4MjUxYmRhYzMyL3RyaXBvX3Bicl9tb2RlbF9lOGUwM2E5NS04YWRlLTRiYjUtOWRhNi1lNjgyNTFiZGFjMzIuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=AoX4znOUGPwQ59rkcORoSx1I7C7UQWP-hYUUiEGhlJsZME8d5P5~8R7H7SLODBsAMy2AvYkWj7VNH66VB4-6ID~M0vlbz~30lIzOBmYHk-TEuh91ewsBhKDpdQqwLd3tYtZnJomitHHHOjFummubTkscuPUbymrwfAmmEw1xfJIkHiwIt6b-iS6rzBI0K66IxPlZbZQXX8Tgd8EGF~b6M0rRxFO5Yg2NdW~zKFa~aSAQp2dghlmEI6AMrH1pFfYRZvqDBqSfPbfTJJrNDPjF8Fh4gijGUdWiHxQ50-CLHALBgWWS2gTvRKoYK8QoKUbe5G~WEKFAMrOzLhDkXllc7A__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\e8e03a95-8ade-4bb5-9da6-e68251bdac32.glb",
+    "createdAt": "2026-04-29T05:16:10.714Z"
+  },
+  {
+    "taskId": "e8e03a95-8ade-4bb5-9da6-e68251bdac32",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/e8e03a95-8ade-4bb5-9da6-e68251bdac32/tripo_pbr_model_e8e03a95-8ade-4bb5-9da6-e68251bdac32.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvZThlMDNhOTUtOGFkZS00YmI1LTlkYTYtZTY4MjUxYmRhYzMyL3RyaXBvX3Bicl9tb2RlbF9lOGUwM2E5NS04YWRlLTRiYjUtOWRhNi1lNjgyNTFiZGFjMzIuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=AoX4znOUGPwQ59rkcORoSx1I7C7UQWP-hYUUiEGhlJsZME8d5P5~8R7H7SLODBsAMy2AvYkWj7VNH66VB4-6ID~M0vlbz~30lIzOBmYHk-TEuh91ewsBhKDpdQqwLd3tYtZnJomitHHHOjFummubTkscuPUbymrwfAmmEw1xfJIkHiwIt6b-iS6rzBI0K66IxPlZbZQXX8Tgd8EGF~b6M0rRxFO5Yg2NdW~zKFa~aSAQp2dghlmEI6AMrH1pFfYRZvqDBqSfPbfTJJrNDPjF8Fh4gijGUdWiHxQ50-CLHALBgWWS2gTvRKoYK8QoKUbe5G~WEKFAMrOzLhDkXllc7A__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\e8e03a95-8ade-4bb5-9da6-e68251bdac32.glb",
+    "createdAt": "2026-04-29T05:16:09.034Z"
+  },
+  {
+    "taskId": "e8e03a95-8ade-4bb5-9da6-e68251bdac32",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/e8e03a95-8ade-4bb5-9da6-e68251bdac32/tripo_pbr_model_e8e03a95-8ade-4bb5-9da6-e68251bdac32.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvZThlMDNhOTUtOGFkZS00YmI1LTlkYTYtZTY4MjUxYmRhYzMyL3RyaXBvX3Bicl9tb2RlbF9lOGUwM2E5NS04YWRlLTRiYjUtOWRhNi1lNjgyNTFiZGFjMzIuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=AoX4znOUGPwQ59rkcORoSx1I7C7UQWP-hYUUiEGhlJsZME8d5P5~8R7H7SLODBsAMy2AvYkWj7VNH66VB4-6ID~M0vlbz~30lIzOBmYHk-TEuh91ewsBhKDpdQqwLd3tYtZnJomitHHHOjFummubTkscuPUbymrwfAmmEw1xfJIkHiwIt6b-iS6rzBI0K66IxPlZbZQXX8Tgd8EGF~b6M0rRxFO5Yg2NdW~zKFa~aSAQp2dghlmEI6AMrH1pFfYRZvqDBqSfPbfTJJrNDPjF8Fh4gijGUdWiHxQ50-CLHALBgWWS2gTvRKoYK8QoKUbe5G~WEKFAMrOzLhDkXllc7A__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\e8e03a95-8ade-4bb5-9da6-e68251bdac32.glb",
+    "createdAt": "2026-04-29T05:16:07.863Z"
+  },
+  {
+    "taskId": "e8e03a95-8ade-4bb5-9da6-e68251bdac32",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/e8e03a95-8ade-4bb5-9da6-e68251bdac32/tripo_pbr_model_e8e03a95-8ade-4bb5-9da6-e68251bdac32.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvZThlMDNhOTUtOGFkZS00YmI1LTlkYTYtZTY4MjUxYmRhYzMyL3RyaXBvX3Bicl9tb2RlbF9lOGUwM2E5NS04YWRlLTRiYjUtOWRhNi1lNjgyNTFiZGFjMzIuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=AoX4znOUGPwQ59rkcORoSx1I7C7UQWP-hYUUiEGhlJsZME8d5P5~8R7H7SLODBsAMy2AvYkWj7VNH66VB4-6ID~M0vlbz~30lIzOBmYHk-TEuh91ewsBhKDpdQqwLd3tYtZnJomitHHHOjFummubTkscuPUbymrwfAmmEw1xfJIkHiwIt6b-iS6rzBI0K66IxPlZbZQXX8Tgd8EGF~b6M0rRxFO5Yg2NdW~zKFa~aSAQp2dghlmEI6AMrH1pFfYRZvqDBqSfPbfTJJrNDPjF8Fh4gijGUdWiHxQ50-CLHALBgWWS2gTvRKoYK8QoKUbe5G~WEKFAMrOzLhDkXllc7A__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\e8e03a95-8ade-4bb5-9da6-e68251bdac32.glb",
+    "createdAt": "2026-04-29T05:16:06.759Z"
+  },
+  {
+    "taskId": "e8e03a95-8ade-4bb5-9da6-e68251bdac32",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/e8e03a95-8ade-4bb5-9da6-e68251bdac32/tripo_pbr_model_e8e03a95-8ade-4bb5-9da6-e68251bdac32.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvZThlMDNhOTUtOGFkZS00YmI1LTlkYTYtZTY4MjUxYmRhYzMyL3RyaXBvX3Bicl9tb2RlbF9lOGUwM2E5NS04YWRlLTRiYjUtOWRhNi1lNjgyNTFiZGFjMzIuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=AoX4znOUGPwQ59rkcORoSx1I7C7UQWP-hYUUiEGhlJsZME8d5P5~8R7H7SLODBsAMy2AvYkWj7VNH66VB4-6ID~M0vlbz~30lIzOBmYHk-TEuh91ewsBhKDpdQqwLd3tYtZnJomitHHHOjFummubTkscuPUbymrwfAmmEw1xfJIkHiwIt6b-iS6rzBI0K66IxPlZbZQXX8Tgd8EGF~b6M0rRxFO5Yg2NdW~zKFa~aSAQp2dghlmEI6AMrH1pFfYRZvqDBqSfPbfTJJrNDPjF8Fh4gijGUdWiHxQ50-CLHALBgWWS2gTvRKoYK8QoKUbe5G~WEKFAMrOzLhDkXllc7A__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\e8e03a95-8ade-4bb5-9da6-e68251bdac32.glb",
+    "createdAt": "2026-04-29T05:16:05.387Z"
+  },
+  {
+    "taskId": "a2af5e27-29d2-4abd-939b-7ebb3a667a4a",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/a2af5e27-29d2-4abd-939b-7ebb3a667a4a/tripo_pbr_model_a2af5e27-29d2-4abd-939b-7ebb3a667a4a.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvYTJhZjVlMjctMjlkMi00YWJkLTkzOWItN2ViYjNhNjY3YTRhL3RyaXBvX3Bicl9tb2RlbF9hMmFmNWUyNy0yOWQyLTRhYmQtOTM5Yi03ZWJiM2E2NjdhNGEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=Bo8w5ZwReL8-uU90Ig7~0ogGBONKnneY8glF9XpgN6IYBeX4PGgaJa8LhD81NwleSlU8ix4muaFu9hjRYEPsIUJ2sNVXd7q0JhlAU7HOafDVR4WIE0cdaUhfPhCXkZgEOe8mwmYLB4y1fRWs4CiqwndEfAJ3VkRUf93O1So0ytWTNfI5Y6ssPGdUsLGyzuuM6TW6ez5dJ99V09Z5T~VggTq~ZojjTlC77CkAEjFs--LAgjsp~VWvXR0HzDpg75LtHM7tde~NgHm97d4qBcrXwhEDVle46gzoKeaXMLz7PwFASsSH~1KNGV6X-kWdJ2XX2PIc3kl3cNU0XMT2HNvkSg__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\a2af5e27-29d2-4abd-939b-7ebb3a667a4a.glb",
+    "createdAt": "2026-04-29T05:11:39.990Z"
+  },
+  {
+    "taskId": "a2af5e27-29d2-4abd-939b-7ebb3a667a4a",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/a2af5e27-29d2-4abd-939b-7ebb3a667a4a/tripo_pbr_model_a2af5e27-29d2-4abd-939b-7ebb3a667a4a.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvYTJhZjVlMjctMjlkMi00YWJkLTkzOWItN2ViYjNhNjY3YTRhL3RyaXBvX3Bicl9tb2RlbF9hMmFmNWUyNy0yOWQyLTRhYmQtOTM5Yi03ZWJiM2E2NjdhNGEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=Bo8w5ZwReL8-uU90Ig7~0ogGBONKnneY8glF9XpgN6IYBeX4PGgaJa8LhD81NwleSlU8ix4muaFu9hjRYEPsIUJ2sNVXd7q0JhlAU7HOafDVR4WIE0cdaUhfPhCXkZgEOe8mwmYLB4y1fRWs4CiqwndEfAJ3VkRUf93O1So0ytWTNfI5Y6ssPGdUsLGyzuuM6TW6ez5dJ99V09Z5T~VggTq~ZojjTlC77CkAEjFs--LAgjsp~VWvXR0HzDpg75LtHM7tde~NgHm97d4qBcrXwhEDVle46gzoKeaXMLz7PwFASsSH~1KNGV6X-kWdJ2XX2PIc3kl3cNU0XMT2HNvkSg__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\a2af5e27-29d2-4abd-939b-7ebb3a667a4a.glb",
+    "createdAt": "2026-04-29T05:11:39.271Z"
+  },
+  {
+    "taskId": "a2af5e27-29d2-4abd-939b-7ebb3a667a4a",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/a2af5e27-29d2-4abd-939b-7ebb3a667a4a/tripo_pbr_model_a2af5e27-29d2-4abd-939b-7ebb3a667a4a.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvYTJhZjVlMjctMjlkMi00YWJkLTkzOWItN2ViYjNhNjY3YTRhL3RyaXBvX3Bicl9tb2RlbF9hMmFmNWUyNy0yOWQyLTRhYmQtOTM5Yi03ZWJiM2E2NjdhNGEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=Bo8w5ZwReL8-uU90Ig7~0ogGBONKnneY8glF9XpgN6IYBeX4PGgaJa8LhD81NwleSlU8ix4muaFu9hjRYEPsIUJ2sNVXd7q0JhlAU7HOafDVR4WIE0cdaUhfPhCXkZgEOe8mwmYLB4y1fRWs4CiqwndEfAJ3VkRUf93O1So0ytWTNfI5Y6ssPGdUsLGyzuuM6TW6ez5dJ99V09Z5T~VggTq~ZojjTlC77CkAEjFs--LAgjsp~VWvXR0HzDpg75LtHM7tde~NgHm97d4qBcrXwhEDVle46gzoKeaXMLz7PwFASsSH~1KNGV6X-kWdJ2XX2PIc3kl3cNU0XMT2HNvkSg__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\a2af5e27-29d2-4abd-939b-7ebb3a667a4a.glb",
+    "createdAt": "2026-04-29T05:11:38.622Z"
+  },
+  {
+    "taskId": "a2af5e27-29d2-4abd-939b-7ebb3a667a4a",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/a2af5e27-29d2-4abd-939b-7ebb3a667a4a/tripo_pbr_model_a2af5e27-29d2-4abd-939b-7ebb3a667a4a.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvYTJhZjVlMjctMjlkMi00YWJkLTkzOWItN2ViYjNhNjY3YTRhL3RyaXBvX3Bicl9tb2RlbF9hMmFmNWUyNy0yOWQyLTRhYmQtOTM5Yi03ZWJiM2E2NjdhNGEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=Bo8w5ZwReL8-uU90Ig7~0ogGBONKnneY8glF9XpgN6IYBeX4PGgaJa8LhD81NwleSlU8ix4muaFu9hjRYEPsIUJ2sNVXd7q0JhlAU7HOafDVR4WIE0cdaUhfPhCXkZgEOe8mwmYLB4y1fRWs4CiqwndEfAJ3VkRUf93O1So0ytWTNfI5Y6ssPGdUsLGyzuuM6TW6ez5dJ99V09Z5T~VggTq~ZojjTlC77CkAEjFs--LAgjsp~VWvXR0HzDpg75LtHM7tde~NgHm97d4qBcrXwhEDVle46gzoKeaXMLz7PwFASsSH~1KNGV6X-kWdJ2XX2PIc3kl3cNU0XMT2HNvkSg__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\a2af5e27-29d2-4abd-939b-7ebb3a667a4a.glb",
+    "createdAt": "2026-04-29T05:11:37.909Z"
+  },
+  {
+    "taskId": "a2af5e27-29d2-4abd-939b-7ebb3a667a4a",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/a2af5e27-29d2-4abd-939b-7ebb3a667a4a/tripo_pbr_model_a2af5e27-29d2-4abd-939b-7ebb3a667a4a.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvYTJhZjVlMjctMjlkMi00YWJkLTkzOWItN2ViYjNhNjY3YTRhL3RyaXBvX3Bicl9tb2RlbF9hMmFmNWUyNy0yOWQyLTRhYmQtOTM5Yi03ZWJiM2E2NjdhNGEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=Bo8w5ZwReL8-uU90Ig7~0ogGBONKnneY8glF9XpgN6IYBeX4PGgaJa8LhD81NwleSlU8ix4muaFu9hjRYEPsIUJ2sNVXd7q0JhlAU7HOafDVR4WIE0cdaUhfPhCXkZgEOe8mwmYLB4y1fRWs4CiqwndEfAJ3VkRUf93O1So0ytWTNfI5Y6ssPGdUsLGyzuuM6TW6ez5dJ99V09Z5T~VggTq~ZojjTlC77CkAEjFs--LAgjsp~VWvXR0HzDpg75LtHM7tde~NgHm97d4qBcrXwhEDVle46gzoKeaXMLz7PwFASsSH~1KNGV6X-kWdJ2XX2PIc3kl3cNU0XMT2HNvkSg__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\a2af5e27-29d2-4abd-939b-7ebb3a667a4a.glb",
+    "createdAt": "2026-04-29T05:11:37.338Z"
+  },
+  {
+    "taskId": "a2af5e27-29d2-4abd-939b-7ebb3a667a4a",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/a2af5e27-29d2-4abd-939b-7ebb3a667a4a/tripo_pbr_model_a2af5e27-29d2-4abd-939b-7ebb3a667a4a.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvYTJhZjVlMjctMjlkMi00YWJkLTkzOWItN2ViYjNhNjY3YTRhL3RyaXBvX3Bicl9tb2RlbF9hMmFmNWUyNy0yOWQyLTRhYmQtOTM5Yi03ZWJiM2E2NjdhNGEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=Bo8w5ZwReL8-uU90Ig7~0ogGBONKnneY8glF9XpgN6IYBeX4PGgaJa8LhD81NwleSlU8ix4muaFu9hjRYEPsIUJ2sNVXd7q0JhlAU7HOafDVR4WIE0cdaUhfPhCXkZgEOe8mwmYLB4y1fRWs4CiqwndEfAJ3VkRUf93O1So0ytWTNfI5Y6ssPGdUsLGyzuuM6TW6ez5dJ99V09Z5T~VggTq~ZojjTlC77CkAEjFs--LAgjsp~VWvXR0HzDpg75LtHM7tde~NgHm97d4qBcrXwhEDVle46gzoKeaXMLz7PwFASsSH~1KNGV6X-kWdJ2XX2PIc3kl3cNU0XMT2HNvkSg__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\a2af5e27-29d2-4abd-939b-7ebb3a667a4a.glb",
+    "createdAt": "2026-04-29T05:11:35.885Z"
+  },
+  {
+    "taskId": "5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a/tripo_pbr_model_5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvNWQ3NDVlMWEtOGU2ZS00Y2E2LTliNzAtOWVhYzY3M2E1ZDZhL3RyaXBvX3Bicl9tb2RlbF81ZDc0NWUxYS04ZTZlLTRjYTYtOWI3MC05ZWFjNjczYTVkNmEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=QPR6O5KJ0K-SeQWdZVB1PjLsFkm7hmQ69l5B-yG3aOptlDJL5ga7iuN9AmiOnz1EgmZ5uhAQk96eGWfPmpz0XavgB7JGa-FSrrILsehdu-DVglX~pZaOp1ftb5HGKZjRevMaWDUawQ37GJr7Khok2nJXwqwoMVNpVTlq3hnMCRLeQx6RxFz651EpM2xR6BITlRSynz2hUhWJgD8iJP1VAHFhB48Er8XuX9iFonj11FLZe6afdhItVUhZEIeKXLrA8i3R~qrlqzpcN7DXY8gk8HOq31m-8LL0wlO0WCFsjySMiIz8zEdxTIhBB8OZhVzZfXn0T57CE29IiL~jqGLIrw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a.glb",
+    "createdAt": "2026-04-29T05:06:38.063Z"
+  },
+  {
+    "taskId": "5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a/tripo_pbr_model_5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvNWQ3NDVlMWEtOGU2ZS00Y2E2LTliNzAtOWVhYzY3M2E1ZDZhL3RyaXBvX3Bicl9tb2RlbF81ZDc0NWUxYS04ZTZlLTRjYTYtOWI3MC05ZWFjNjczYTVkNmEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=QPR6O5KJ0K-SeQWdZVB1PjLsFkm7hmQ69l5B-yG3aOptlDJL5ga7iuN9AmiOnz1EgmZ5uhAQk96eGWfPmpz0XavgB7JGa-FSrrILsehdu-DVglX~pZaOp1ftb5HGKZjRevMaWDUawQ37GJr7Khok2nJXwqwoMVNpVTlq3hnMCRLeQx6RxFz651EpM2xR6BITlRSynz2hUhWJgD8iJP1VAHFhB48Er8XuX9iFonj11FLZe6afdhItVUhZEIeKXLrA8i3R~qrlqzpcN7DXY8gk8HOq31m-8LL0wlO0WCFsjySMiIz8zEdxTIhBB8OZhVzZfXn0T57CE29IiL~jqGLIrw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a.glb",
+    "createdAt": "2026-04-29T05:06:37.125Z"
+  },
+  {
+    "taskId": "5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a/tripo_pbr_model_5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvNWQ3NDVlMWEtOGU2ZS00Y2E2LTliNzAtOWVhYzY3M2E1ZDZhL3RyaXBvX3Bicl9tb2RlbF81ZDc0NWUxYS04ZTZlLTRjYTYtOWI3MC05ZWFjNjczYTVkNmEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=QPR6O5KJ0K-SeQWdZVB1PjLsFkm7hmQ69l5B-yG3aOptlDJL5ga7iuN9AmiOnz1EgmZ5uhAQk96eGWfPmpz0XavgB7JGa-FSrrILsehdu-DVglX~pZaOp1ftb5HGKZjRevMaWDUawQ37GJr7Khok2nJXwqwoMVNpVTlq3hnMCRLeQx6RxFz651EpM2xR6BITlRSynz2hUhWJgD8iJP1VAHFhB48Er8XuX9iFonj11FLZe6afdhItVUhZEIeKXLrA8i3R~qrlqzpcN7DXY8gk8HOq31m-8LL0wlO0WCFsjySMiIz8zEdxTIhBB8OZhVzZfXn0T57CE29IiL~jqGLIrw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a.glb",
+    "createdAt": "2026-04-29T05:06:35.875Z"
+  },
+  {
+    "taskId": "5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a/tripo_pbr_model_5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvNWQ3NDVlMWEtOGU2ZS00Y2E2LTliNzAtOWVhYzY3M2E1ZDZhL3RyaXBvX3Bicl9tb2RlbF81ZDc0NWUxYS04ZTZlLTRjYTYtOWI3MC05ZWFjNjczYTVkNmEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=QPR6O5KJ0K-SeQWdZVB1PjLsFkm7hmQ69l5B-yG3aOptlDJL5ga7iuN9AmiOnz1EgmZ5uhAQk96eGWfPmpz0XavgB7JGa-FSrrILsehdu-DVglX~pZaOp1ftb5HGKZjRevMaWDUawQ37GJr7Khok2nJXwqwoMVNpVTlq3hnMCRLeQx6RxFz651EpM2xR6BITlRSynz2hUhWJgD8iJP1VAHFhB48Er8XuX9iFonj11FLZe6afdhItVUhZEIeKXLrA8i3R~qrlqzpcN7DXY8gk8HOq31m-8LL0wlO0WCFsjySMiIz8zEdxTIhBB8OZhVzZfXn0T57CE29IiL~jqGLIrw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a.glb",
+    "createdAt": "2026-04-29T05:06:35.183Z"
+  },
+  {
+    "taskId": "5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a/tripo_pbr_model_5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvNWQ3NDVlMWEtOGU2ZS00Y2E2LTliNzAtOWVhYzY3M2E1ZDZhL3RyaXBvX3Bicl9tb2RlbF81ZDc0NWUxYS04ZTZlLTRjYTYtOWI3MC05ZWFjNjczYTVkNmEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=QPR6O5KJ0K-SeQWdZVB1PjLsFkm7hmQ69l5B-yG3aOptlDJL5ga7iuN9AmiOnz1EgmZ5uhAQk96eGWfPmpz0XavgB7JGa-FSrrILsehdu-DVglX~pZaOp1ftb5HGKZjRevMaWDUawQ37GJr7Khok2nJXwqwoMVNpVTlq3hnMCRLeQx6RxFz651EpM2xR6BITlRSynz2hUhWJgD8iJP1VAHFhB48Er8XuX9iFonj11FLZe6afdhItVUhZEIeKXLrA8i3R~qrlqzpcN7DXY8gk8HOq31m-8LL0wlO0WCFsjySMiIz8zEdxTIhBB8OZhVzZfXn0T57CE29IiL~jqGLIrw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a.glb",
+    "createdAt": "2026-04-29T05:06:34.485Z"
+  },
+  {
+    "taskId": "5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a/tripo_pbr_model_5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvNWQ3NDVlMWEtOGU2ZS00Y2E2LTliNzAtOWVhYzY3M2E1ZDZhL3RyaXBvX3Bicl9tb2RlbF81ZDc0NWUxYS04ZTZlLTRjYTYtOWI3MC05ZWFjNjczYTVkNmEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=QPR6O5KJ0K-SeQWdZVB1PjLsFkm7hmQ69l5B-yG3aOptlDJL5ga7iuN9AmiOnz1EgmZ5uhAQk96eGWfPmpz0XavgB7JGa-FSrrILsehdu-DVglX~pZaOp1ftb5HGKZjRevMaWDUawQ37GJr7Khok2nJXwqwoMVNpVTlq3hnMCRLeQx6RxFz651EpM2xR6BITlRSynz2hUhWJgD8iJP1VAHFhB48Er8XuX9iFonj11FLZe6afdhItVUhZEIeKXLrA8i3R~qrlqzpcN7DXY8gk8HOq31m-8LL0wlO0WCFsjySMiIz8zEdxTIhBB8OZhVzZfXn0T57CE29IiL~jqGLIrw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\5d745e1a-8e6e-4ca6-9b70-9eac673a5d6a.glb",
+    "createdAt": "2026-04-29T05:06:32.876Z"
+  },
+  {
+    "taskId": "4fb3299a-af45-40a6-9cb3-8475017b1390",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/4fb3299a-af45-40a6-9cb3-8475017b1390/tripo_pbr_model_4fb3299a-af45-40a6-9cb3-8475017b1390.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvNGZiMzI5OWEtYWY0NS00MGE2LTljYjMtODQ3NTAxN2IxMzkwL3RyaXBvX3Bicl9tb2RlbF80ZmIzMjk5YS1hZjQ1LTQwYTYtOWNiMy04NDc1MDE3YjEzOTAuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=B7jWKQA5MUDLK9vGXJezXCjZLEB8CUWpW7gXP93r2Fe5OrGSZi8E~m68A7rI73ZorjBpSscunaW~RNTw3vPsgQIZkcM6s~M6rdsHFeUjcKFkQxcsolobchpEm0qE-bbOlQ6ziH3FCjTr4wFTe3Bq9iaA9WGfyfejDLgiIXctgBHAVirfoaRrR-dxF9ktORHI18Mp~kGerRr3PmrjBHm-F7vFlhcjLGyyjptz5jNclda-chhCQVw49dHRJFiQ~cwzB1Grja5zPLSf5uEuA7M5m-6wPPqwFIy1TVM5anDEJA8bRKVrq4DbiIpS8HTCVnqAwdQNOpg1n5lF6ymPbdJrgw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\4fb3299a-af45-40a6-9cb3-8475017b1390.glb",
+    "createdAt": "2026-04-29T03:15:41.353Z"
+  },
+  {
+    "taskId": "4fb3299a-af45-40a6-9cb3-8475017b1390",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/4fb3299a-af45-40a6-9cb3-8475017b1390/tripo_pbr_model_4fb3299a-af45-40a6-9cb3-8475017b1390.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvNGZiMzI5OWEtYWY0NS00MGE2LTljYjMtODQ3NTAxN2IxMzkwL3RyaXBvX3Bicl9tb2RlbF80ZmIzMjk5YS1hZjQ1LTQwYTYtOWNiMy04NDc1MDE3YjEzOTAuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=B7jWKQA5MUDLK9vGXJezXCjZLEB8CUWpW7gXP93r2Fe5OrGSZi8E~m68A7rI73ZorjBpSscunaW~RNTw3vPsgQIZkcM6s~M6rdsHFeUjcKFkQxcsolobchpEm0qE-bbOlQ6ziH3FCjTr4wFTe3Bq9iaA9WGfyfejDLgiIXctgBHAVirfoaRrR-dxF9ktORHI18Mp~kGerRr3PmrjBHm-F7vFlhcjLGyyjptz5jNclda-chhCQVw49dHRJFiQ~cwzB1Grja5zPLSf5uEuA7M5m-6wPPqwFIy1TVM5anDEJA8bRKVrq4DbiIpS8HTCVnqAwdQNOpg1n5lF6ymPbdJrgw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\4fb3299a-af45-40a6-9cb3-8475017b1390.glb",
+    "createdAt": "2026-04-29T03:15:40.578Z"
+  },
+  {
+    "taskId": "4fb3299a-af45-40a6-9cb3-8475017b1390",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/4fb3299a-af45-40a6-9cb3-8475017b1390/tripo_pbr_model_4fb3299a-af45-40a6-9cb3-8475017b1390.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvNGZiMzI5OWEtYWY0NS00MGE2LTljYjMtODQ3NTAxN2IxMzkwL3RyaXBvX3Bicl9tb2RlbF80ZmIzMjk5YS1hZjQ1LTQwYTYtOWNiMy04NDc1MDE3YjEzOTAuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=B7jWKQA5MUDLK9vGXJezXCjZLEB8CUWpW7gXP93r2Fe5OrGSZi8E~m68A7rI73ZorjBpSscunaW~RNTw3vPsgQIZkcM6s~M6rdsHFeUjcKFkQxcsolobchpEm0qE-bbOlQ6ziH3FCjTr4wFTe3Bq9iaA9WGfyfejDLgiIXctgBHAVirfoaRrR-dxF9ktORHI18Mp~kGerRr3PmrjBHm-F7vFlhcjLGyyjptz5jNclda-chhCQVw49dHRJFiQ~cwzB1Grja5zPLSf5uEuA7M5m-6wPPqwFIy1TVM5anDEJA8bRKVrq4DbiIpS8HTCVnqAwdQNOpg1n5lF6ymPbdJrgw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\4fb3299a-af45-40a6-9cb3-8475017b1390.glb",
+    "createdAt": "2026-04-29T03:15:39.888Z"
+  },
+  {
+    "taskId": "4fb3299a-af45-40a6-9cb3-8475017b1390",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/4fb3299a-af45-40a6-9cb3-8475017b1390/tripo_pbr_model_4fb3299a-af45-40a6-9cb3-8475017b1390.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvNGZiMzI5OWEtYWY0NS00MGE2LTljYjMtODQ3NTAxN2IxMzkwL3RyaXBvX3Bicl9tb2RlbF80ZmIzMjk5YS1hZjQ1LTQwYTYtOWNiMy04NDc1MDE3YjEzOTAuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=B7jWKQA5MUDLK9vGXJezXCjZLEB8CUWpW7gXP93r2Fe5OrGSZi8E~m68A7rI73ZorjBpSscunaW~RNTw3vPsgQIZkcM6s~M6rdsHFeUjcKFkQxcsolobchpEm0qE-bbOlQ6ziH3FCjTr4wFTe3Bq9iaA9WGfyfejDLgiIXctgBHAVirfoaRrR-dxF9ktORHI18Mp~kGerRr3PmrjBHm-F7vFlhcjLGyyjptz5jNclda-chhCQVw49dHRJFiQ~cwzB1Grja5zPLSf5uEuA7M5m-6wPPqwFIy1TVM5anDEJA8bRKVrq4DbiIpS8HTCVnqAwdQNOpg1n5lF6ymPbdJrgw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\4fb3299a-af45-40a6-9cb3-8475017b1390.glb",
+    "createdAt": "2026-04-29T03:15:39.201Z"
+  },
+  {
+    "taskId": "4fb3299a-af45-40a6-9cb3-8475017b1390",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/4fb3299a-af45-40a6-9cb3-8475017b1390/tripo_pbr_model_4fb3299a-af45-40a6-9cb3-8475017b1390.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvNGZiMzI5OWEtYWY0NS00MGE2LTljYjMtODQ3NTAxN2IxMzkwL3RyaXBvX3Bicl9tb2RlbF80ZmIzMjk5YS1hZjQ1LTQwYTYtOWNiMy04NDc1MDE3YjEzOTAuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=B7jWKQA5MUDLK9vGXJezXCjZLEB8CUWpW7gXP93r2Fe5OrGSZi8E~m68A7rI73ZorjBpSscunaW~RNTw3vPsgQIZkcM6s~M6rdsHFeUjcKFkQxcsolobchpEm0qE-bbOlQ6ziH3FCjTr4wFTe3Bq9iaA9WGfyfejDLgiIXctgBHAVirfoaRrR-dxF9ktORHI18Mp~kGerRr3PmrjBHm-F7vFlhcjLGyyjptz5jNclda-chhCQVw49dHRJFiQ~cwzB1Grja5zPLSf5uEuA7M5m-6wPPqwFIy1TVM5anDEJA8bRKVrq4DbiIpS8HTCVnqAwdQNOpg1n5lF6ymPbdJrgw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\4fb3299a-af45-40a6-9cb3-8475017b1390.glb",
+    "createdAt": "2026-04-29T03:15:38.701Z"
+  },
+  {
+    "taskId": "4fb3299a-af45-40a6-9cb3-8475017b1390",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/4fb3299a-af45-40a6-9cb3-8475017b1390/tripo_pbr_model_4fb3299a-af45-40a6-9cb3-8475017b1390.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvNGZiMzI5OWEtYWY0NS00MGE2LTljYjMtODQ3NTAxN2IxMzkwL3RyaXBvX3Bicl9tb2RlbF80ZmIzMjk5YS1hZjQ1LTQwYTYtOWNiMy04NDc1MDE3YjEzOTAuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=B7jWKQA5MUDLK9vGXJezXCjZLEB8CUWpW7gXP93r2Fe5OrGSZi8E~m68A7rI73ZorjBpSscunaW~RNTw3vPsgQIZkcM6s~M6rdsHFeUjcKFkQxcsolobchpEm0qE-bbOlQ6ziH3FCjTr4wFTe3Bq9iaA9WGfyfejDLgiIXctgBHAVirfoaRrR-dxF9ktORHI18Mp~kGerRr3PmrjBHm-F7vFlhcjLGyyjptz5jNclda-chhCQVw49dHRJFiQ~cwzB1Grja5zPLSf5uEuA7M5m-6wPPqwFIy1TVM5anDEJA8bRKVrq4DbiIpS8HTCVnqAwdQNOpg1n5lF6ymPbdJrgw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\4fb3299a-af45-40a6-9cb3-8475017b1390.glb",
+    "createdAt": "2026-04-29T03:15:38.064Z"
+  },
+  {
+    "taskId": "4fb3299a-af45-40a6-9cb3-8475017b1390",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/4fb3299a-af45-40a6-9cb3-8475017b1390/tripo_pbr_model_4fb3299a-af45-40a6-9cb3-8475017b1390.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvNGZiMzI5OWEtYWY0NS00MGE2LTljYjMtODQ3NTAxN2IxMzkwL3RyaXBvX3Bicl9tb2RlbF80ZmIzMjk5YS1hZjQ1LTQwYTYtOWNiMy04NDc1MDE3YjEzOTAuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=B7jWKQA5MUDLK9vGXJezXCjZLEB8CUWpW7gXP93r2Fe5OrGSZi8E~m68A7rI73ZorjBpSscunaW~RNTw3vPsgQIZkcM6s~M6rdsHFeUjcKFkQxcsolobchpEm0qE-bbOlQ6ziH3FCjTr4wFTe3Bq9iaA9WGfyfejDLgiIXctgBHAVirfoaRrR-dxF9ktORHI18Mp~kGerRr3PmrjBHm-F7vFlhcjLGyyjptz5jNclda-chhCQVw49dHRJFiQ~cwzB1Grja5zPLSf5uEuA7M5m-6wPPqwFIy1TVM5anDEJA8bRKVrq4DbiIpS8HTCVnqAwdQNOpg1n5lF6ymPbdJrgw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\4fb3299a-af45-40a6-9cb3-8475017b1390.glb",
+    "createdAt": "2026-04-29T03:15:37.538Z"
+  },
+  {
+    "taskId": "4fb3299a-af45-40a6-9cb3-8475017b1390",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/4fb3299a-af45-40a6-9cb3-8475017b1390/tripo_pbr_model_4fb3299a-af45-40a6-9cb3-8475017b1390.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvNGZiMzI5OWEtYWY0NS00MGE2LTljYjMtODQ3NTAxN2IxMzkwL3RyaXBvX3Bicl9tb2RlbF80ZmIzMjk5YS1hZjQ1LTQwYTYtOWNiMy04NDc1MDE3YjEzOTAuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=B7jWKQA5MUDLK9vGXJezXCjZLEB8CUWpW7gXP93r2Fe5OrGSZi8E~m68A7rI73ZorjBpSscunaW~RNTw3vPsgQIZkcM6s~M6rdsHFeUjcKFkQxcsolobchpEm0qE-bbOlQ6ziH3FCjTr4wFTe3Bq9iaA9WGfyfejDLgiIXctgBHAVirfoaRrR-dxF9ktORHI18Mp~kGerRr3PmrjBHm-F7vFlhcjLGyyjptz5jNclda-chhCQVw49dHRJFiQ~cwzB1Grja5zPLSf5uEuA7M5m-6wPPqwFIy1TVM5anDEJA8bRKVrq4DbiIpS8HTCVnqAwdQNOpg1n5lF6ymPbdJrgw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\4fb3299a-af45-40a6-9cb3-8475017b1390.glb",
+    "createdAt": "2026-04-29T03:15:35.746Z"
+  },
+  {
+    "taskId": "1f7a771d-6d02-4812-8fd2-cbc06f76b7b6",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/1f7a771d-6d02-4812-8fd2-cbc06f76b7b6/tripo_pbr_model_1f7a771d-6d02-4812-8fd2-cbc06f76b7b6.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvMWY3YTc3MWQtNmQwMi00ODEyLThmZDItY2JjMDZmNzZiN2I2L3RyaXBvX3Bicl9tb2RlbF8xZjdhNzcxZC02ZDAyLTQ4MTItOGZkMi1jYmMwNmY3NmI3YjYuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=aO4Ok3O9Z7reLgT-ClrSJfYce4H6~WUOrvyMNsUjy1IsZaGrjQHE6tD7U5glHoT670k2LcyU1TI-y-SXIC36dr-cmllqNOnOwnmTza75wndhlERhJuEqevoJ0G-Wk1dV6I1KWQFMxA-umDneCQ5KflsdvZS07FC83G0mj~lszfixqrK6wtvPKFHEl1nJg2uIKYUqVKxJHWmGw03QtoD60spLpXz7ytH~sS~n-lf-dovPEkpFNszI56kLh9TqQHWw1TAFEVRstJza599WKS~oukYvFHRP0qCrPkZLyAwlIAPBg7F170Wu7yFTFtidUTdNqAlcmi1az3BzVclSv0~u5Q__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\1f7a771d-6d02-4812-8fd2-cbc06f76b7b6.glb",
+    "createdAt": "2026-04-29T03:02:12.361Z"
+  },
+  {
+    "taskId": "1f7a771d-6d02-4812-8fd2-cbc06f76b7b6",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/1f7a771d-6d02-4812-8fd2-cbc06f76b7b6/tripo_pbr_model_1f7a771d-6d02-4812-8fd2-cbc06f76b7b6.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvMWY3YTc3MWQtNmQwMi00ODEyLThmZDItY2JjMDZmNzZiN2I2L3RyaXBvX3Bicl9tb2RlbF8xZjdhNzcxZC02ZDAyLTQ4MTItOGZkMi1jYmMwNmY3NmI3YjYuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=aO4Ok3O9Z7reLgT-ClrSJfYce4H6~WUOrvyMNsUjy1IsZaGrjQHE6tD7U5glHoT670k2LcyU1TI-y-SXIC36dr-cmllqNOnOwnmTza75wndhlERhJuEqevoJ0G-Wk1dV6I1KWQFMxA-umDneCQ5KflsdvZS07FC83G0mj~lszfixqrK6wtvPKFHEl1nJg2uIKYUqVKxJHWmGw03QtoD60spLpXz7ytH~sS~n-lf-dovPEkpFNszI56kLh9TqQHWw1TAFEVRstJza599WKS~oukYvFHRP0qCrPkZLyAwlIAPBg7F170Wu7yFTFtidUTdNqAlcmi1az3BzVclSv0~u5Q__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\1f7a771d-6d02-4812-8fd2-cbc06f76b7b6.glb",
+    "createdAt": "2026-04-29T03:02:11.745Z"
+  },
+  {
+    "taskId": "1f7a771d-6d02-4812-8fd2-cbc06f76b7b6",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/1f7a771d-6d02-4812-8fd2-cbc06f76b7b6/tripo_pbr_model_1f7a771d-6d02-4812-8fd2-cbc06f76b7b6.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvMWY3YTc3MWQtNmQwMi00ODEyLThmZDItY2JjMDZmNzZiN2I2L3RyaXBvX3Bicl9tb2RlbF8xZjdhNzcxZC02ZDAyLTQ4MTItOGZkMi1jYmMwNmY3NmI3YjYuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=aO4Ok3O9Z7reLgT-ClrSJfYce4H6~WUOrvyMNsUjy1IsZaGrjQHE6tD7U5glHoT670k2LcyU1TI-y-SXIC36dr-cmllqNOnOwnmTza75wndhlERhJuEqevoJ0G-Wk1dV6I1KWQFMxA-umDneCQ5KflsdvZS07FC83G0mj~lszfixqrK6wtvPKFHEl1nJg2uIKYUqVKxJHWmGw03QtoD60spLpXz7ytH~sS~n-lf-dovPEkpFNszI56kLh9TqQHWw1TAFEVRstJza599WKS~oukYvFHRP0qCrPkZLyAwlIAPBg7F170Wu7yFTFtidUTdNqAlcmi1az3BzVclSv0~u5Q__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\1f7a771d-6d02-4812-8fd2-cbc06f76b7b6.glb",
+    "createdAt": "2026-04-29T03:02:11.140Z"
+  },
+  {
+    "taskId": "1f7a771d-6d02-4812-8fd2-cbc06f76b7b6",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/1f7a771d-6d02-4812-8fd2-cbc06f76b7b6/tripo_pbr_model_1f7a771d-6d02-4812-8fd2-cbc06f76b7b6.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvMWY3YTc3MWQtNmQwMi00ODEyLThmZDItY2JjMDZmNzZiN2I2L3RyaXBvX3Bicl9tb2RlbF8xZjdhNzcxZC02ZDAyLTQ4MTItOGZkMi1jYmMwNmY3NmI3YjYuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=aO4Ok3O9Z7reLgT-ClrSJfYce4H6~WUOrvyMNsUjy1IsZaGrjQHE6tD7U5glHoT670k2LcyU1TI-y-SXIC36dr-cmllqNOnOwnmTza75wndhlERhJuEqevoJ0G-Wk1dV6I1KWQFMxA-umDneCQ5KflsdvZS07FC83G0mj~lszfixqrK6wtvPKFHEl1nJg2uIKYUqVKxJHWmGw03QtoD60spLpXz7ytH~sS~n-lf-dovPEkpFNszI56kLh9TqQHWw1TAFEVRstJza599WKS~oukYvFHRP0qCrPkZLyAwlIAPBg7F170Wu7yFTFtidUTdNqAlcmi1az3BzVclSv0~u5Q__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\1f7a771d-6d02-4812-8fd2-cbc06f76b7b6.glb",
+    "createdAt": "2026-04-29T03:02:10.545Z"
+  },
+  {
+    "taskId": "1f7a771d-6d02-4812-8fd2-cbc06f76b7b6",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/1f7a771d-6d02-4812-8fd2-cbc06f76b7b6/tripo_pbr_model_1f7a771d-6d02-4812-8fd2-cbc06f76b7b6.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvMWY3YTc3MWQtNmQwMi00ODEyLThmZDItY2JjMDZmNzZiN2I2L3RyaXBvX3Bicl9tb2RlbF8xZjdhNzcxZC02ZDAyLTQ4MTItOGZkMi1jYmMwNmY3NmI3YjYuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=aO4Ok3O9Z7reLgT-ClrSJfYce4H6~WUOrvyMNsUjy1IsZaGrjQHE6tD7U5glHoT670k2LcyU1TI-y-SXIC36dr-cmllqNOnOwnmTza75wndhlERhJuEqevoJ0G-Wk1dV6I1KWQFMxA-umDneCQ5KflsdvZS07FC83G0mj~lszfixqrK6wtvPKFHEl1nJg2uIKYUqVKxJHWmGw03QtoD60spLpXz7ytH~sS~n-lf-dovPEkpFNszI56kLh9TqQHWw1TAFEVRstJza599WKS~oukYvFHRP0qCrPkZLyAwlIAPBg7F170Wu7yFTFtidUTdNqAlcmi1az3BzVclSv0~u5Q__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\1f7a771d-6d02-4812-8fd2-cbc06f76b7b6.glb",
+    "createdAt": "2026-04-29T03:02:09.917Z"
+  },
+  {
+    "taskId": "1f7a771d-6d02-4812-8fd2-cbc06f76b7b6",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/1f7a771d-6d02-4812-8fd2-cbc06f76b7b6/tripo_pbr_model_1f7a771d-6d02-4812-8fd2-cbc06f76b7b6.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvMWY3YTc3MWQtNmQwMi00ODEyLThmZDItY2JjMDZmNzZiN2I2L3RyaXBvX3Bicl9tb2RlbF8xZjdhNzcxZC02ZDAyLTQ4MTItOGZkMi1jYmMwNmY3NmI3YjYuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=aO4Ok3O9Z7reLgT-ClrSJfYce4H6~WUOrvyMNsUjy1IsZaGrjQHE6tD7U5glHoT670k2LcyU1TI-y-SXIC36dr-cmllqNOnOwnmTza75wndhlERhJuEqevoJ0G-Wk1dV6I1KWQFMxA-umDneCQ5KflsdvZS07FC83G0mj~lszfixqrK6wtvPKFHEl1nJg2uIKYUqVKxJHWmGw03QtoD60spLpXz7ytH~sS~n-lf-dovPEkpFNszI56kLh9TqQHWw1TAFEVRstJza599WKS~oukYvFHRP0qCrPkZLyAwlIAPBg7F170Wu7yFTFtidUTdNqAlcmi1az3BzVclSv0~u5Q__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\1f7a771d-6d02-4812-8fd2-cbc06f76b7b6.glb",
+    "createdAt": "2026-04-29T03:02:08.442Z"
+  },
+  {
+    "taskId": "826b112a-c16e-47f7-a47c-858b0294e3a9",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/826b112a-c16e-47f7-a47c-858b0294e3a9/tripo_pbr_model_826b112a-c16e-47f7-a47c-858b0294e3a9.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvODI2YjExMmEtYzE2ZS00N2Y3LWE0N2MtODU4YjAyOTRlM2E5L3RyaXBvX3Bicl9tb2RlbF84MjZiMTEyYS1jMTZlLTQ3ZjctYTQ3Yy04NThiMDI5NGUzYTkuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=Qlwf~JY~Mql7KJguqJ97TuVKs-Vt~WSxYe-PM3l3glZDee3ph2NN9moUUzbUzWrmrn3SDpBfG6ofLytybU4Qw1s4mp-6N0dlR-ktPykYG0iQjFA-AJR2d55mgubE0NX~~rOvDYpgWMO7g7DXI85e8Ab3oT~o-zfP~WK9Fo828SfgbELcPwyDYnDepC~zRDaRMxvV6KtKs676OOJFsS5gywrOXi8lKvEDnvRMJznGIxBzw24~5G8IQsJT3Wzw84c~okikMtDFixHuiqvapHpv0gaeU26hpChlJGXFnzWxktb0zsby~PNFdU~hHfZYzfX8VN0eP6r05-5lo3vBjL7WkQ__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\826b112a-c16e-47f7-a47c-858b0294e3a9.glb",
+    "createdAt": "2026-04-29T02:50:20.520Z"
+  },
+  {
+    "taskId": "826b112a-c16e-47f7-a47c-858b0294e3a9",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/826b112a-c16e-47f7-a47c-858b0294e3a9/tripo_pbr_model_826b112a-c16e-47f7-a47c-858b0294e3a9.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvODI2YjExMmEtYzE2ZS00N2Y3LWE0N2MtODU4YjAyOTRlM2E5L3RyaXBvX3Bicl9tb2RlbF84MjZiMTEyYS1jMTZlLTQ3ZjctYTQ3Yy04NThiMDI5NGUzYTkuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=Qlwf~JY~Mql7KJguqJ97TuVKs-Vt~WSxYe-PM3l3glZDee3ph2NN9moUUzbUzWrmrn3SDpBfG6ofLytybU4Qw1s4mp-6N0dlR-ktPykYG0iQjFA-AJR2d55mgubE0NX~~rOvDYpgWMO7g7DXI85e8Ab3oT~o-zfP~WK9Fo828SfgbELcPwyDYnDepC~zRDaRMxvV6KtKs676OOJFsS5gywrOXi8lKvEDnvRMJznGIxBzw24~5G8IQsJT3Wzw84c~okikMtDFixHuiqvapHpv0gaeU26hpChlJGXFnzWxktb0zsby~PNFdU~hHfZYzfX8VN0eP6r05-5lo3vBjL7WkQ__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\826b112a-c16e-47f7-a47c-858b0294e3a9.glb",
+    "createdAt": "2026-04-29T02:50:20.017Z"
+  },
+  {
+    "taskId": "826b112a-c16e-47f7-a47c-858b0294e3a9",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/826b112a-c16e-47f7-a47c-858b0294e3a9/tripo_pbr_model_826b112a-c16e-47f7-a47c-858b0294e3a9.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvODI2YjExMmEtYzE2ZS00N2Y3LWE0N2MtODU4YjAyOTRlM2E5L3RyaXBvX3Bicl9tb2RlbF84MjZiMTEyYS1jMTZlLTQ3ZjctYTQ3Yy04NThiMDI5NGUzYTkuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=Qlwf~JY~Mql7KJguqJ97TuVKs-Vt~WSxYe-PM3l3glZDee3ph2NN9moUUzbUzWrmrn3SDpBfG6ofLytybU4Qw1s4mp-6N0dlR-ktPykYG0iQjFA-AJR2d55mgubE0NX~~rOvDYpgWMO7g7DXI85e8Ab3oT~o-zfP~WK9Fo828SfgbELcPwyDYnDepC~zRDaRMxvV6KtKs676OOJFsS5gywrOXi8lKvEDnvRMJznGIxBzw24~5G8IQsJT3Wzw84c~okikMtDFixHuiqvapHpv0gaeU26hpChlJGXFnzWxktb0zsby~PNFdU~hHfZYzfX8VN0eP6r05-5lo3vBjL7WkQ__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\826b112a-c16e-47f7-a47c-858b0294e3a9.glb",
+    "createdAt": "2026-04-29T02:50:19.425Z"
+  },
+  {
+    "taskId": "826b112a-c16e-47f7-a47c-858b0294e3a9",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/826b112a-c16e-47f7-a47c-858b0294e3a9/tripo_pbr_model_826b112a-c16e-47f7-a47c-858b0294e3a9.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvODI2YjExMmEtYzE2ZS00N2Y3LWE0N2MtODU4YjAyOTRlM2E5L3RyaXBvX3Bicl9tb2RlbF84MjZiMTEyYS1jMTZlLTQ3ZjctYTQ3Yy04NThiMDI5NGUzYTkuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=Qlwf~JY~Mql7KJguqJ97TuVKs-Vt~WSxYe-PM3l3glZDee3ph2NN9moUUzbUzWrmrn3SDpBfG6ofLytybU4Qw1s4mp-6N0dlR-ktPykYG0iQjFA-AJR2d55mgubE0NX~~rOvDYpgWMO7g7DXI85e8Ab3oT~o-zfP~WK9Fo828SfgbELcPwyDYnDepC~zRDaRMxvV6KtKs676OOJFsS5gywrOXi8lKvEDnvRMJznGIxBzw24~5G8IQsJT3Wzw84c~okikMtDFixHuiqvapHpv0gaeU26hpChlJGXFnzWxktb0zsby~PNFdU~hHfZYzfX8VN0eP6r05-5lo3vBjL7WkQ__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\826b112a-c16e-47f7-a47c-858b0294e3a9.glb",
+    "createdAt": "2026-04-29T02:50:18.902Z"
+  },
+  {
+    "taskId": "826b112a-c16e-47f7-a47c-858b0294e3a9",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/826b112a-c16e-47f7-a47c-858b0294e3a9/tripo_pbr_model_826b112a-c16e-47f7-a47c-858b0294e3a9.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvODI2YjExMmEtYzE2ZS00N2Y3LWE0N2MtODU4YjAyOTRlM2E5L3RyaXBvX3Bicl9tb2RlbF84MjZiMTEyYS1jMTZlLTQ3ZjctYTQ3Yy04NThiMDI5NGUzYTkuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=Qlwf~JY~Mql7KJguqJ97TuVKs-Vt~WSxYe-PM3l3glZDee3ph2NN9moUUzbUzWrmrn3SDpBfG6ofLytybU4Qw1s4mp-6N0dlR-ktPykYG0iQjFA-AJR2d55mgubE0NX~~rOvDYpgWMO7g7DXI85e8Ab3oT~o-zfP~WK9Fo828SfgbELcPwyDYnDepC~zRDaRMxvV6KtKs676OOJFsS5gywrOXi8lKvEDnvRMJznGIxBzw24~5G8IQsJT3Wzw84c~okikMtDFixHuiqvapHpv0gaeU26hpChlJGXFnzWxktb0zsby~PNFdU~hHfZYzfX8VN0eP6r05-5lo3vBjL7WkQ__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\826b112a-c16e-47f7-a47c-858b0294e3a9.glb",
+    "createdAt": "2026-04-29T02:50:18.357Z"
+  },
+  {
+    "taskId": "826b112a-c16e-47f7-a47c-858b0294e3a9",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/826b112a-c16e-47f7-a47c-858b0294e3a9/tripo_pbr_model_826b112a-c16e-47f7-a47c-858b0294e3a9.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvODI2YjExMmEtYzE2ZS00N2Y3LWE0N2MtODU4YjAyOTRlM2E5L3RyaXBvX3Bicl9tb2RlbF84MjZiMTEyYS1jMTZlLTQ3ZjctYTQ3Yy04NThiMDI5NGUzYTkuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=Qlwf~JY~Mql7KJguqJ97TuVKs-Vt~WSxYe-PM3l3glZDee3ph2NN9moUUzbUzWrmrn3SDpBfG6ofLytybU4Qw1s4mp-6N0dlR-ktPykYG0iQjFA-AJR2d55mgubE0NX~~rOvDYpgWMO7g7DXI85e8Ab3oT~o-zfP~WK9Fo828SfgbELcPwyDYnDepC~zRDaRMxvV6KtKs676OOJFsS5gywrOXi8lKvEDnvRMJznGIxBzw24~5G8IQsJT3Wzw84c~okikMtDFixHuiqvapHpv0gaeU26hpChlJGXFnzWxktb0zsby~PNFdU~hHfZYzfX8VN0eP6r05-5lo3vBjL7WkQ__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\826b112a-c16e-47f7-a47c-858b0294e3a9.glb",
+    "createdAt": "2026-04-29T02:50:17.664Z"
+  },
+  {
+    "taskId": "826b112a-c16e-47f7-a47c-858b0294e3a9",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/826b112a-c16e-47f7-a47c-858b0294e3a9/tripo_pbr_model_826b112a-c16e-47f7-a47c-858b0294e3a9.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvODI2YjExMmEtYzE2ZS00N2Y3LWE0N2MtODU4YjAyOTRlM2E5L3RyaXBvX3Bicl9tb2RlbF84MjZiMTEyYS1jMTZlLTQ3ZjctYTQ3Yy04NThiMDI5NGUzYTkuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=Qlwf~JY~Mql7KJguqJ97TuVKs-Vt~WSxYe-PM3l3glZDee3ph2NN9moUUzbUzWrmrn3SDpBfG6ofLytybU4Qw1s4mp-6N0dlR-ktPykYG0iQjFA-AJR2d55mgubE0NX~~rOvDYpgWMO7g7DXI85e8Ab3oT~o-zfP~WK9Fo828SfgbELcPwyDYnDepC~zRDaRMxvV6KtKs676OOJFsS5gywrOXi8lKvEDnvRMJznGIxBzw24~5G8IQsJT3Wzw84c~okikMtDFixHuiqvapHpv0gaeU26hpChlJGXFnzWxktb0zsby~PNFdU~hHfZYzfX8VN0eP6r05-5lo3vBjL7WkQ__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\826b112a-c16e-47f7-a47c-858b0294e3a9.glb",
+    "createdAt": "2026-04-29T02:50:17.084Z"
+  },
+  {
+    "taskId": "826b112a-c16e-47f7-a47c-858b0294e3a9",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/826b112a-c16e-47f7-a47c-858b0294e3a9/tripo_pbr_model_826b112a-c16e-47f7-a47c-858b0294e3a9.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvODI2YjExMmEtYzE2ZS00N2Y3LWE0N2MtODU4YjAyOTRlM2E5L3RyaXBvX3Bicl9tb2RlbF84MjZiMTEyYS1jMTZlLTQ3ZjctYTQ3Yy04NThiMDI5NGUzYTkuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=Qlwf~JY~Mql7KJguqJ97TuVKs-Vt~WSxYe-PM3l3glZDee3ph2NN9moUUzbUzWrmrn3SDpBfG6ofLytybU4Qw1s4mp-6N0dlR-ktPykYG0iQjFA-AJR2d55mgubE0NX~~rOvDYpgWMO7g7DXI85e8Ab3oT~o-zfP~WK9Fo828SfgbELcPwyDYnDepC~zRDaRMxvV6KtKs676OOJFsS5gywrOXi8lKvEDnvRMJznGIxBzw24~5G8IQsJT3Wzw84c~okikMtDFixHuiqvapHpv0gaeU26hpChlJGXFnzWxktb0zsby~PNFdU~hHfZYzfX8VN0eP6r05-5lo3vBjL7WkQ__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\826b112a-c16e-47f7-a47c-858b0294e3a9.glb",
+    "createdAt": "2026-04-29T02:50:16.351Z"
+  },
+  {
+    "taskId": "826b112a-c16e-47f7-a47c-858b0294e3a9",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260429/826b112a-c16e-47f7-a47c-858b0294e3a9/tripo_pbr_model_826b112a-c16e-47f7-a47c-858b0294e3a9.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjkvODI2YjExMmEtYzE2ZS00N2Y3LWE0N2MtODU4YjAyOTRlM2E5L3RyaXBvX3Bicl9tb2RlbF84MjZiMTEyYS1jMTZlLTQ3ZjctYTQ3Yy04NThiMDI5NGUzYTkuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3NTA3MjAwfX19XX0_&Signature=Qlwf~JY~Mql7KJguqJ97TuVKs-Vt~WSxYe-PM3l3glZDee3ph2NN9moUUzbUzWrmrn3SDpBfG6ofLytybU4Qw1s4mp-6N0dlR-ktPykYG0iQjFA-AJR2d55mgubE0NX~~rOvDYpgWMO7g7DXI85e8Ab3oT~o-zfP~WK9Fo828SfgbELcPwyDYnDepC~zRDaRMxvV6KtKs676OOJFsS5gywrOXi8lKvEDnvRMJznGIxBzw24~5G8IQsJT3Wzw84c~okikMtDFixHuiqvapHpv0gaeU26hpChlJGXFnzWxktb0zsby~PNFdU~hHfZYzfX8VN0eP6r05-5lo3vBjL7WkQ__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\826b112a-c16e-47f7-a47c-858b0294e3a9.glb",
+    "createdAt": "2026-04-29T02:50:14.930Z"
+  },
+  {
+    "taskId": "fa29cf1e-7170-4590-bab2-3a47733d4808",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260427/fa29cf1e-7170-4590-bab2-3a47733d4808/tripo_pbr_model_fa29cf1e-7170-4590-bab2-3a47733d4808.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjcvZmEyOWNmMWUtNzE3MC00NTkwLWJhYjItM2E0NzczM2Q0ODA4L3RyaXBvX3Bicl9tb2RlbF9mYTI5Y2YxZS03MTcwLTQ1OTAtYmFiMi0zYTQ3NzMzZDQ4MDguZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MzM0NDAwfX19XX0_&Signature=cTLQ2rWoB3KPtU6cDPYVIbU1k7j0qNk7pVDxjq3h7jEIhfxlLcRogp98TlJz97P0Hgz7-ac1DTqmf-QRz6PlU~EApc9MCy7S1QCYgdJ4kLExYITE6fMW7joQsLomGr8MlZ1~8BcIWSO8cdMGiftlN8vy5Hc4v4gu6BuHOMIiPcBEQ0OaaU4gwgKTvkeLY9Kj07JDXHod9Kke92Ozqw0lmlDvm8vGO0I6GvQtKLw7MhiiiPs7O~fCDc8NMbXAxLRfvQBOvzogy9cquMPP14pqIHidoS5yjXVTj3UkX3ESzvZ5APpfmkRerO3~Ag1J7JIYSUtDugQBATWzsCeJsuoMBA__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\fa29cf1e-7170-4590-bab2-3a47733d4808.glb",
+    "createdAt": "2026-04-27T05:10:04.339Z"
+  },
+  {
+    "taskId": "3cc2e39c-7b40-4815-bfba-ed0c582a29fb",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260427/3cc2e39c-7b40-4815-bfba-ed0c582a29fb/tripo_pbr_model_3cc2e39c-7b40-4815-bfba-ed0c582a29fb.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjcvM2NjMmUzOWMtN2I0MC00ODE1LWJmYmEtZWQwYzU4MmEyOWZiL3RyaXBvX3Bicl9tb2RlbF8zY2MyZTM5Yy03YjQwLTQ4MTUtYmZiYS1lZDBjNTgyYTI5ZmIuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MzM0NDAwfX19XX0_&Signature=mjElYQ5XId69H2Vi2c4kNtWvdNOCdvW-i5eom3DQF7mDLoyQmM2N8SsqxuZOy4gpKh8h6fXQPvasvSJSVUY1MTfozyEnR7xAYJ~Qnn0o5tiRWcvtmC7fU5eeYhdV~VKhxh5vEaj4XpQ8pyJVCFQUq4kqE2O6HXSvwQHJMT66L8VM~VG~QHX8mxp~p5JUF8KBDFj5ktc9YJTtuSD3q0eXBg9XQ1sXRPDRw8wUeUc6WFo3iQ-mQrVl8gRw55oj1sQXVEO1M3FisCfF1NaYsMuG0FhhYAKNHsKHG3BIINmmj4tJ5aJPt09hl743v~yBPk0ftwDJAq-7Fh7q~2J~e6895g__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\3cc2e39c-7b40-4815-bfba-ed0c582a29fb.glb",
+    "createdAt": "2026-04-27T05:00:08.565Z"
+  },
+  {
+    "taskId": "3cc2e39c-7b40-4815-bfba-ed0c582a29fb",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260427/3cc2e39c-7b40-4815-bfba-ed0c582a29fb/tripo_pbr_model_3cc2e39c-7b40-4815-bfba-ed0c582a29fb.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjcvM2NjMmUzOWMtN2I0MC00ODE1LWJmYmEtZWQwYzU4MmEyOWZiL3RyaXBvX3Bicl9tb2RlbF8zY2MyZTM5Yy03YjQwLTQ4MTUtYmZiYS1lZDBjNTgyYTI5ZmIuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MzM0NDAwfX19XX0_&Signature=mjElYQ5XId69H2Vi2c4kNtWvdNOCdvW-i5eom3DQF7mDLoyQmM2N8SsqxuZOy4gpKh8h6fXQPvasvSJSVUY1MTfozyEnR7xAYJ~Qnn0o5tiRWcvtmC7fU5eeYhdV~VKhxh5vEaj4XpQ8pyJVCFQUq4kqE2O6HXSvwQHJMT66L8VM~VG~QHX8mxp~p5JUF8KBDFj5ktc9YJTtuSD3q0eXBg9XQ1sXRPDRw8wUeUc6WFo3iQ-mQrVl8gRw55oj1sQXVEO1M3FisCfF1NaYsMuG0FhhYAKNHsKHG3BIINmmj4tJ5aJPt09hl743v~yBPk0ftwDJAq-7Fh7q~2J~e6895g__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\3cc2e39c-7b40-4815-bfba-ed0c582a29fb.glb",
+    "createdAt": "2026-04-27T05:00:08.056Z"
+  },
+  {
+    "taskId": "3cc2e39c-7b40-4815-bfba-ed0c582a29fb",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260427/3cc2e39c-7b40-4815-bfba-ed0c582a29fb/tripo_pbr_model_3cc2e39c-7b40-4815-bfba-ed0c582a29fb.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjcvM2NjMmUzOWMtN2I0MC00ODE1LWJmYmEtZWQwYzU4MmEyOWZiL3RyaXBvX3Bicl9tb2RlbF8zY2MyZTM5Yy03YjQwLTQ4MTUtYmZiYS1lZDBjNTgyYTI5ZmIuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MzM0NDAwfX19XX0_&Signature=mjElYQ5XId69H2Vi2c4kNtWvdNOCdvW-i5eom3DQF7mDLoyQmM2N8SsqxuZOy4gpKh8h6fXQPvasvSJSVUY1MTfozyEnR7xAYJ~Qnn0o5tiRWcvtmC7fU5eeYhdV~VKhxh5vEaj4XpQ8pyJVCFQUq4kqE2O6HXSvwQHJMT66L8VM~VG~QHX8mxp~p5JUF8KBDFj5ktc9YJTtuSD3q0eXBg9XQ1sXRPDRw8wUeUc6WFo3iQ-mQrVl8gRw55oj1sQXVEO1M3FisCfF1NaYsMuG0FhhYAKNHsKHG3BIINmmj4tJ5aJPt09hl743v~yBPk0ftwDJAq-7Fh7q~2J~e6895g__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\3cc2e39c-7b40-4815-bfba-ed0c582a29fb.glb",
+    "createdAt": "2026-04-27T05:00:07.426Z"
+  },
+  {
+    "taskId": "3cc2e39c-7b40-4815-bfba-ed0c582a29fb",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260427/3cc2e39c-7b40-4815-bfba-ed0c582a29fb/tripo_pbr_model_3cc2e39c-7b40-4815-bfba-ed0c582a29fb.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjcvM2NjMmUzOWMtN2I0MC00ODE1LWJmYmEtZWQwYzU4MmEyOWZiL3RyaXBvX3Bicl9tb2RlbF8zY2MyZTM5Yy03YjQwLTQ4MTUtYmZiYS1lZDBjNTgyYTI5ZmIuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MzM0NDAwfX19XX0_&Signature=mjElYQ5XId69H2Vi2c4kNtWvdNOCdvW-i5eom3DQF7mDLoyQmM2N8SsqxuZOy4gpKh8h6fXQPvasvSJSVUY1MTfozyEnR7xAYJ~Qnn0o5tiRWcvtmC7fU5eeYhdV~VKhxh5vEaj4XpQ8pyJVCFQUq4kqE2O6HXSvwQHJMT66L8VM~VG~QHX8mxp~p5JUF8KBDFj5ktc9YJTtuSD3q0eXBg9XQ1sXRPDRw8wUeUc6WFo3iQ-mQrVl8gRw55oj1sQXVEO1M3FisCfF1NaYsMuG0FhhYAKNHsKHG3BIINmmj4tJ5aJPt09hl743v~yBPk0ftwDJAq-7Fh7q~2J~e6895g__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\3cc2e39c-7b40-4815-bfba-ed0c582a29fb.glb",
+    "createdAt": "2026-04-27T05:00:06.629Z"
+  },
+  {
+    "taskId": "3cc2e39c-7b40-4815-bfba-ed0c582a29fb",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260427/3cc2e39c-7b40-4815-bfba-ed0c582a29fb/tripo_pbr_model_3cc2e39c-7b40-4815-bfba-ed0c582a29fb.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjcvM2NjMmUzOWMtN2I0MC00ODE1LWJmYmEtZWQwYzU4MmEyOWZiL3RyaXBvX3Bicl9tb2RlbF8zY2MyZTM5Yy03YjQwLTQ4MTUtYmZiYS1lZDBjNTgyYTI5ZmIuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MzM0NDAwfX19XX0_&Signature=mjElYQ5XId69H2Vi2c4kNtWvdNOCdvW-i5eom3DQF7mDLoyQmM2N8SsqxuZOy4gpKh8h6fXQPvasvSJSVUY1MTfozyEnR7xAYJ~Qnn0o5tiRWcvtmC7fU5eeYhdV~VKhxh5vEaj4XpQ8pyJVCFQUq4kqE2O6HXSvwQHJMT66L8VM~VG~QHX8mxp~p5JUF8KBDFj5ktc9YJTtuSD3q0eXBg9XQ1sXRPDRw8wUeUc6WFo3iQ-mQrVl8gRw55oj1sQXVEO1M3FisCfF1NaYsMuG0FhhYAKNHsKHG3BIINmmj4tJ5aJPt09hl743v~yBPk0ftwDJAq-7Fh7q~2J~e6895g__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\3cc2e39c-7b40-4815-bfba-ed0c582a29fb.glb",
+    "createdAt": "2026-04-27T05:00:05.764Z"
+  },
+  {
+    "taskId": "3cc2e39c-7b40-4815-bfba-ed0c582a29fb",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260427/3cc2e39c-7b40-4815-bfba-ed0c582a29fb/tripo_pbr_model_3cc2e39c-7b40-4815-bfba-ed0c582a29fb.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjcvM2NjMmUzOWMtN2I0MC00ODE1LWJmYmEtZWQwYzU4MmEyOWZiL3RyaXBvX3Bicl9tb2RlbF8zY2MyZTM5Yy03YjQwLTQ4MTUtYmZiYS1lZDBjNTgyYTI5ZmIuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MzM0NDAwfX19XX0_&Signature=mjElYQ5XId69H2Vi2c4kNtWvdNOCdvW-i5eom3DQF7mDLoyQmM2N8SsqxuZOy4gpKh8h6fXQPvasvSJSVUY1MTfozyEnR7xAYJ~Qnn0o5tiRWcvtmC7fU5eeYhdV~VKhxh5vEaj4XpQ8pyJVCFQUq4kqE2O6HXSvwQHJMT66L8VM~VG~QHX8mxp~p5JUF8KBDFj5ktc9YJTtuSD3q0eXBg9XQ1sXRPDRw8wUeUc6WFo3iQ-mQrVl8gRw55oj1sQXVEO1M3FisCfF1NaYsMuG0FhhYAKNHsKHG3BIINmmj4tJ5aJPt09hl743v~yBPk0ftwDJAq-7Fh7q~2J~e6895g__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\3cc2e39c-7b40-4815-bfba-ed0c582a29fb.glb",
+    "createdAt": "2026-04-27T05:00:04.969Z"
+  },
+  {
+    "taskId": "3cc2e39c-7b40-4815-bfba-ed0c582a29fb",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260427/3cc2e39c-7b40-4815-bfba-ed0c582a29fb/tripo_pbr_model_3cc2e39c-7b40-4815-bfba-ed0c582a29fb.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjcvM2NjMmUzOWMtN2I0MC00ODE1LWJmYmEtZWQwYzU4MmEyOWZiL3RyaXBvX3Bicl9tb2RlbF8zY2MyZTM5Yy03YjQwLTQ4MTUtYmZiYS1lZDBjNTgyYTI5ZmIuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MzM0NDAwfX19XX0_&Signature=mjElYQ5XId69H2Vi2c4kNtWvdNOCdvW-i5eom3DQF7mDLoyQmM2N8SsqxuZOy4gpKh8h6fXQPvasvSJSVUY1MTfozyEnR7xAYJ~Qnn0o5tiRWcvtmC7fU5eeYhdV~VKhxh5vEaj4XpQ8pyJVCFQUq4kqE2O6HXSvwQHJMT66L8VM~VG~QHX8mxp~p5JUF8KBDFj5ktc9YJTtuSD3q0eXBg9XQ1sXRPDRw8wUeUc6WFo3iQ-mQrVl8gRw55oj1sQXVEO1M3FisCfF1NaYsMuG0FhhYAKNHsKHG3BIINmmj4tJ5aJPt09hl743v~yBPk0ftwDJAq-7Fh7q~2J~e6895g__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\3cc2e39c-7b40-4815-bfba-ed0c582a29fb.glb",
+    "createdAt": "2026-04-27T05:00:04.288Z"
+  },
+  {
+    "taskId": "3cc2e39c-7b40-4815-bfba-ed0c582a29fb",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260427/3cc2e39c-7b40-4815-bfba-ed0c582a29fb/tripo_pbr_model_3cc2e39c-7b40-4815-bfba-ed0c582a29fb.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjcvM2NjMmUzOWMtN2I0MC00ODE1LWJmYmEtZWQwYzU4MmEyOWZiL3RyaXBvX3Bicl9tb2RlbF8zY2MyZTM5Yy03YjQwLTQ4MTUtYmZiYS1lZDBjNTgyYTI5ZmIuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MzM0NDAwfX19XX0_&Signature=mjElYQ5XId69H2Vi2c4kNtWvdNOCdvW-i5eom3DQF7mDLoyQmM2N8SsqxuZOy4gpKh8h6fXQPvasvSJSVUY1MTfozyEnR7xAYJ~Qnn0o5tiRWcvtmC7fU5eeYhdV~VKhxh5vEaj4XpQ8pyJVCFQUq4kqE2O6HXSvwQHJMT66L8VM~VG~QHX8mxp~p5JUF8KBDFj5ktc9YJTtuSD3q0eXBg9XQ1sXRPDRw8wUeUc6WFo3iQ-mQrVl8gRw55oj1sQXVEO1M3FisCfF1NaYsMuG0FhhYAKNHsKHG3BIINmmj4tJ5aJPt09hl743v~yBPk0ftwDJAq-7Fh7q~2J~e6895g__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\3cc2e39c-7b40-4815-bfba-ed0c582a29fb.glb",
+    "createdAt": "2026-04-27T05:00:01.954Z"
+  },
+  {
+    "taskId": "010cefa5-f7ed-4751-bd55-bfd4b01104a1",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260427/010cefa5-f7ed-4751-bd55-bfd4b01104a1/tripo_pbr_model_010cefa5-f7ed-4751-bd55-bfd4b01104a1.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjcvMDEwY2VmYTUtZjdlZC00NzUxLWJkNTUtYmZkNGIwMTEwNGExL3RyaXBvX3Bicl9tb2RlbF8wMTBjZWZhNS1mN2VkLTQ3NTEtYmQ1NS1iZmQ0YjAxMTA0YTEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MzM0NDAwfX19XX0_&Signature=KWaUlvqGHUdmTXaI7mbdSRVyOwNB33BLIYlHYoK1GuyDsqfh2ZGFUvuK1u3G0YtyIW9-nn-ubvyuHqLXiuX3eA0mqPFpS-UdCNzU8p6I7gcGfCmYpal4e~VTJzhv6TQWHji5eazu57BtTw91bcOW~6nDj32kflyGDkfs7f1aWmR8oKbOQfoOxp2ta787W2RyjM7iPHC3kG9qHZ5VtbsqyIgZ1sLj9q5rCIOHgKS4yt0Q-vyC4zElkgQWCXISeTxJC2bTNvT2tAdG62VeVw-nsdhYxg1FRp3aiiJeHORYSoBoKhD6wSPhOFXldkvHt1yAqdmxGDabodhHK7RJrfGA6Q__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\010cefa5-f7ed-4751-bd55-bfd4b01104a1.glb",
+    "createdAt": "2026-04-27T04:45:25.530Z"
+  },
+  {
+    "taskId": "010cefa5-f7ed-4751-bd55-bfd4b01104a1",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260427/010cefa5-f7ed-4751-bd55-bfd4b01104a1/tripo_pbr_model_010cefa5-f7ed-4751-bd55-bfd4b01104a1.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjcvMDEwY2VmYTUtZjdlZC00NzUxLWJkNTUtYmZkNGIwMTEwNGExL3RyaXBvX3Bicl9tb2RlbF8wMTBjZWZhNS1mN2VkLTQ3NTEtYmQ1NS1iZmQ0YjAxMTA0YTEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MzM0NDAwfX19XX0_&Signature=KWaUlvqGHUdmTXaI7mbdSRVyOwNB33BLIYlHYoK1GuyDsqfh2ZGFUvuK1u3G0YtyIW9-nn-ubvyuHqLXiuX3eA0mqPFpS-UdCNzU8p6I7gcGfCmYpal4e~VTJzhv6TQWHji5eazu57BtTw91bcOW~6nDj32kflyGDkfs7f1aWmR8oKbOQfoOxp2ta787W2RyjM7iPHC3kG9qHZ5VtbsqyIgZ1sLj9q5rCIOHgKS4yt0Q-vyC4zElkgQWCXISeTxJC2bTNvT2tAdG62VeVw-nsdhYxg1FRp3aiiJeHORYSoBoKhD6wSPhOFXldkvHt1yAqdmxGDabodhHK7RJrfGA6Q__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\010cefa5-f7ed-4751-bd55-bfd4b01104a1.glb",
+    "createdAt": "2026-04-27T04:45:24.773Z"
+  },
+  {
+    "taskId": "010cefa5-f7ed-4751-bd55-bfd4b01104a1",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260427/010cefa5-f7ed-4751-bd55-bfd4b01104a1/tripo_pbr_model_010cefa5-f7ed-4751-bd55-bfd4b01104a1.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjcvMDEwY2VmYTUtZjdlZC00NzUxLWJkNTUtYmZkNGIwMTEwNGExL3RyaXBvX3Bicl9tb2RlbF8wMTBjZWZhNS1mN2VkLTQ3NTEtYmQ1NS1iZmQ0YjAxMTA0YTEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MzM0NDAwfX19XX0_&Signature=KWaUlvqGHUdmTXaI7mbdSRVyOwNB33BLIYlHYoK1GuyDsqfh2ZGFUvuK1u3G0YtyIW9-nn-ubvyuHqLXiuX3eA0mqPFpS-UdCNzU8p6I7gcGfCmYpal4e~VTJzhv6TQWHji5eazu57BtTw91bcOW~6nDj32kflyGDkfs7f1aWmR8oKbOQfoOxp2ta787W2RyjM7iPHC3kG9qHZ5VtbsqyIgZ1sLj9q5rCIOHgKS4yt0Q-vyC4zElkgQWCXISeTxJC2bTNvT2tAdG62VeVw-nsdhYxg1FRp3aiiJeHORYSoBoKhD6wSPhOFXldkvHt1yAqdmxGDabodhHK7RJrfGA6Q__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\010cefa5-f7ed-4751-bd55-bfd4b01104a1.glb",
+    "createdAt": "2026-04-27T04:45:24.188Z"
+  },
+  {
+    "taskId": "010cefa5-f7ed-4751-bd55-bfd4b01104a1",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260427/010cefa5-f7ed-4751-bd55-bfd4b01104a1/tripo_pbr_model_010cefa5-f7ed-4751-bd55-bfd4b01104a1.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjcvMDEwY2VmYTUtZjdlZC00NzUxLWJkNTUtYmZkNGIwMTEwNGExL3RyaXBvX3Bicl9tb2RlbF8wMTBjZWZhNS1mN2VkLTQ3NTEtYmQ1NS1iZmQ0YjAxMTA0YTEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MzM0NDAwfX19XX0_&Signature=KWaUlvqGHUdmTXaI7mbdSRVyOwNB33BLIYlHYoK1GuyDsqfh2ZGFUvuK1u3G0YtyIW9-nn-ubvyuHqLXiuX3eA0mqPFpS-UdCNzU8p6I7gcGfCmYpal4e~VTJzhv6TQWHji5eazu57BtTw91bcOW~6nDj32kflyGDkfs7f1aWmR8oKbOQfoOxp2ta787W2RyjM7iPHC3kG9qHZ5VtbsqyIgZ1sLj9q5rCIOHgKS4yt0Q-vyC4zElkgQWCXISeTxJC2bTNvT2tAdG62VeVw-nsdhYxg1FRp3aiiJeHORYSoBoKhD6wSPhOFXldkvHt1yAqdmxGDabodhHK7RJrfGA6Q__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\010cefa5-f7ed-4751-bd55-bfd4b01104a1.glb",
+    "createdAt": "2026-04-27T04:45:23.535Z"
+  },
+  {
+    "taskId": "010cefa5-f7ed-4751-bd55-bfd4b01104a1",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260427/010cefa5-f7ed-4751-bd55-bfd4b01104a1/tripo_pbr_model_010cefa5-f7ed-4751-bd55-bfd4b01104a1.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjcvMDEwY2VmYTUtZjdlZC00NzUxLWJkNTUtYmZkNGIwMTEwNGExL3RyaXBvX3Bicl9tb2RlbF8wMTBjZWZhNS1mN2VkLTQ3NTEtYmQ1NS1iZmQ0YjAxMTA0YTEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MzM0NDAwfX19XX0_&Signature=KWaUlvqGHUdmTXaI7mbdSRVyOwNB33BLIYlHYoK1GuyDsqfh2ZGFUvuK1u3G0YtyIW9-nn-ubvyuHqLXiuX3eA0mqPFpS-UdCNzU8p6I7gcGfCmYpal4e~VTJzhv6TQWHji5eazu57BtTw91bcOW~6nDj32kflyGDkfs7f1aWmR8oKbOQfoOxp2ta787W2RyjM7iPHC3kG9qHZ5VtbsqyIgZ1sLj9q5rCIOHgKS4yt0Q-vyC4zElkgQWCXISeTxJC2bTNvT2tAdG62VeVw-nsdhYxg1FRp3aiiJeHORYSoBoKhD6wSPhOFXldkvHt1yAqdmxGDabodhHK7RJrfGA6Q__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\010cefa5-f7ed-4751-bd55-bfd4b01104a1.glb",
+    "createdAt": "2026-04-27T04:45:22.999Z"
+  },
+  {
+    "taskId": "010cefa5-f7ed-4751-bd55-bfd4b01104a1",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260427/010cefa5-f7ed-4751-bd55-bfd4b01104a1/tripo_pbr_model_010cefa5-f7ed-4751-bd55-bfd4b01104a1.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjcvMDEwY2VmYTUtZjdlZC00NzUxLWJkNTUtYmZkNGIwMTEwNGExL3RyaXBvX3Bicl9tb2RlbF8wMTBjZWZhNS1mN2VkLTQ3NTEtYmQ1NS1iZmQ0YjAxMTA0YTEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MzM0NDAwfX19XX0_&Signature=KWaUlvqGHUdmTXaI7mbdSRVyOwNB33BLIYlHYoK1GuyDsqfh2ZGFUvuK1u3G0YtyIW9-nn-ubvyuHqLXiuX3eA0mqPFpS-UdCNzU8p6I7gcGfCmYpal4e~VTJzhv6TQWHji5eazu57BtTw91bcOW~6nDj32kflyGDkfs7f1aWmR8oKbOQfoOxp2ta787W2RyjM7iPHC3kG9qHZ5VtbsqyIgZ1sLj9q5rCIOHgKS4yt0Q-vyC4zElkgQWCXISeTxJC2bTNvT2tAdG62VeVw-nsdhYxg1FRp3aiiJeHORYSoBoKhD6wSPhOFXldkvHt1yAqdmxGDabodhHK7RJrfGA6Q__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\010cefa5-f7ed-4751-bd55-bfd4b01104a1.glb",
+    "createdAt": "2026-04-27T04:45:22.359Z"
+  },
+  {
+    "taskId": "010cefa5-f7ed-4751-bd55-bfd4b01104a1",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260427/010cefa5-f7ed-4751-bd55-bfd4b01104a1/tripo_pbr_model_010cefa5-f7ed-4751-bd55-bfd4b01104a1.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjcvMDEwY2VmYTUtZjdlZC00NzUxLWJkNTUtYmZkNGIwMTEwNGExL3RyaXBvX3Bicl9tb2RlbF8wMTBjZWZhNS1mN2VkLTQ3NTEtYmQ1NS1iZmQ0YjAxMTA0YTEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MzM0NDAwfX19XX0_&Signature=KWaUlvqGHUdmTXaI7mbdSRVyOwNB33BLIYlHYoK1GuyDsqfh2ZGFUvuK1u3G0YtyIW9-nn-ubvyuHqLXiuX3eA0mqPFpS-UdCNzU8p6I7gcGfCmYpal4e~VTJzhv6TQWHji5eazu57BtTw91bcOW~6nDj32kflyGDkfs7f1aWmR8oKbOQfoOxp2ta787W2RyjM7iPHC3kG9qHZ5VtbsqyIgZ1sLj9q5rCIOHgKS4yt0Q-vyC4zElkgQWCXISeTxJC2bTNvT2tAdG62VeVw-nsdhYxg1FRp3aiiJeHORYSoBoKhD6wSPhOFXldkvHt1yAqdmxGDabodhHK7RJrfGA6Q__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\010cefa5-f7ed-4751-bd55-bfd4b01104a1.glb",
+    "createdAt": "2026-04-27T04:45:20.977Z"
+  },
+  {
+    "taskId": "11c7ff58-e4e8-42ea-b2a8-98990e743dfa",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260427/11c7ff58-e4e8-42ea-b2a8-98990e743dfa/tripo_pbr_model_11c7ff58-e4e8-42ea-b2a8-98990e743dfa.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjcvMTFjN2ZmNTgtZTRlOC00MmVhLWIyYTgtOTg5OTBlNzQzZGZhL3RyaXBvX3Bicl9tb2RlbF8xMWM3ZmY1OC1lNGU4LTQyZWEtYjJhOC05ODk5MGU3NDNkZmEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MzM0NDAwfX19XX0_&Signature=ADUcz5bigTguEYAsYIV~DAex-KjwblkNNOxwSF4oO-teEkPLbz8aU--O1n~84CZ3VEtlEIjCmX06dPgk7BU87ewAORrkbT6bwed4c0bzaaXOuP-pV0vKHSqjkrAVOKHrUp3MS5FesG7Hhpd0SU6jGacOSrJeXyW6iFo3OXmFXFN4iPfB8-cZdYBjezY0U7El7IDExb3TPiJxwiyXOHUxqD0QMfV-ABBdPRukbLqwuwiDdWa-Q36QlRLhNslc4PRZcY4ZY8Bre7mpIXflB~~PZsiTCNiwigbHBDFnYkcsG5vkQBN~Ugr10rxfNEfg8DS0r1l5~dkfyXDWUMOQ1I3YUQ__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\11c7ff58-e4e8-42ea-b2a8-98990e743dfa.glb",
+    "createdAt": "2026-04-27T04:17:58.914Z"
+  },
+  {
+    "taskId": "11c7ff58-e4e8-42ea-b2a8-98990e743dfa",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260427/11c7ff58-e4e8-42ea-b2a8-98990e743dfa/tripo_pbr_model_11c7ff58-e4e8-42ea-b2a8-98990e743dfa.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjcvMTFjN2ZmNTgtZTRlOC00MmVhLWIyYTgtOTg5OTBlNzQzZGZhL3RyaXBvX3Bicl9tb2RlbF8xMWM3ZmY1OC1lNGU4LTQyZWEtYjJhOC05ODk5MGU3NDNkZmEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MzM0NDAwfX19XX0_&Signature=ADUcz5bigTguEYAsYIV~DAex-KjwblkNNOxwSF4oO-teEkPLbz8aU--O1n~84CZ3VEtlEIjCmX06dPgk7BU87ewAORrkbT6bwed4c0bzaaXOuP-pV0vKHSqjkrAVOKHrUp3MS5FesG7Hhpd0SU6jGacOSrJeXyW6iFo3OXmFXFN4iPfB8-cZdYBjezY0U7El7IDExb3TPiJxwiyXOHUxqD0QMfV-ABBdPRukbLqwuwiDdWa-Q36QlRLhNslc4PRZcY4ZY8Bre7mpIXflB~~PZsiTCNiwigbHBDFnYkcsG5vkQBN~Ugr10rxfNEfg8DS0r1l5~dkfyXDWUMOQ1I3YUQ__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\11c7ff58-e4e8-42ea-b2a8-98990e743dfa.glb",
+    "createdAt": "2026-04-27T04:17:58.320Z"
+  },
+  {
+    "taskId": "11c7ff58-e4e8-42ea-b2a8-98990e743dfa",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260427/11c7ff58-e4e8-42ea-b2a8-98990e743dfa/tripo_pbr_model_11c7ff58-e4e8-42ea-b2a8-98990e743dfa.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjcvMTFjN2ZmNTgtZTRlOC00MmVhLWIyYTgtOTg5OTBlNzQzZGZhL3RyaXBvX3Bicl9tb2RlbF8xMWM3ZmY1OC1lNGU4LTQyZWEtYjJhOC05ODk5MGU3NDNkZmEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MzM0NDAwfX19XX0_&Signature=ADUcz5bigTguEYAsYIV~DAex-KjwblkNNOxwSF4oO-teEkPLbz8aU--O1n~84CZ3VEtlEIjCmX06dPgk7BU87ewAORrkbT6bwed4c0bzaaXOuP-pV0vKHSqjkrAVOKHrUp3MS5FesG7Hhpd0SU6jGacOSrJeXyW6iFo3OXmFXFN4iPfB8-cZdYBjezY0U7El7IDExb3TPiJxwiyXOHUxqD0QMfV-ABBdPRukbLqwuwiDdWa-Q36QlRLhNslc4PRZcY4ZY8Bre7mpIXflB~~PZsiTCNiwigbHBDFnYkcsG5vkQBN~Ugr10rxfNEfg8DS0r1l5~dkfyXDWUMOQ1I3YUQ__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\11c7ff58-e4e8-42ea-b2a8-98990e743dfa.glb",
+    "createdAt": "2026-04-27T04:17:57.725Z"
+  },
+  {
+    "taskId": "11c7ff58-e4e8-42ea-b2a8-98990e743dfa",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_e844a5e4aee54221bc570df8679ccbb2/20260427/11c7ff58-e4e8-42ea-b2a8-98990e743dfa/tripo_pbr_model_11c7ff58-e4e8-42ea-b2a8-98990e743dfa.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfZTg0NGE1ZTRhZWU1NDIyMWJjNTcwZGY4Njc5Y2NiYjIvMjAyNjA0MjcvMTFjN2ZmNTgtZTRlOC00MmVhLWIyYTgtOTg5OTBlNzQzZGZhL3RyaXBvX3Bicl9tb2RlbF8xMWM3ZmY1OC1lNGU4LTQyZWEtYjJhOC05ODk5MGU3NDNkZmEuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MzM0NDAwfX19XX0_&Signature=ADUcz5bigTguEYAsYIV~DAex-KjwblkNNOxwSF4oO-teEkPLbz8aU--O1n~84CZ3VEtlEIjCmX06dPgk7BU87ewAORrkbT6bwed4c0bzaaXOuP-pV0vKHSqjkrAVOKHrUp3MS5FesG7Hhpd0SU6jGacOSrJeXyW6iFo3OXmFXFN4iPfB8-cZdYBjezY0U7El7IDExb3TPiJxwiyXOHUxqD0QMfV-ABBdPRukbLqwuwiDdWa-Q36QlRLhNslc4PRZcY4ZY8Bre7mpIXflB~~PZsiTCNiwigbHBDFnYkcsG5vkQBN~Ugr10rxfNEfg8DS0r1l5~dkfyXDWUMOQ1I3YUQ__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\11c7ff58-e4e8-42ea-b2a8-98990e743dfa.glb",
+    "createdAt": "2026-04-27T04:17:57.143Z"
+  },
+  {
+    "taskId": "e825f7a3-5f2b-4767-ae30-96e0e6c744ad",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/e825f7a3-5f2b-4767-ae30-96e0e6c744ad/tripo_pbr_model_e825f7a3-5f2b-4767-ae30-96e0e6c744ad.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvZTgyNWY3YTMtNWYyYi00NzY3LWFlMzAtOTZlMGU2Yzc0NGFkL3RyaXBvX3Bicl9tb2RlbF9lODI1ZjdhMy01ZjJiLTQ3NjctYWUzMC05NmUwZTZjNzQ0YWQuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=Z41C3vsWWnMwoevFVzzTrqLE4MNksdBmSSXNTdmbl1O04NF6UyoBM8Hkvb8qJkL6aVglsBgUS-~~wqlJyj6uoKdWzhIFj8hkdjz28~gFEV8tObE6aAO30Tnx6RBfmsnhwUo-lHXaVpGX25DGBcuN2Ni6HuHQmn1DvYQrEIiDBtsi6klwA7TN9aQGfujdfFz1Od9F79QZGETerYHv6oR5PXU1SiZU6NmgFGR7HJ-xe2pZU76QuBPQgjZyvOXp29d0MAPUkkak67kQ3R3aN-O-TMLBoizzyNxfxosPc~twUCyrhd6rQ2HiA8bjYKD-MTW~Fx~-WcPQhG3jPVYBOhTvlw__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\e825f7a3-5f2b-4767-ae30-96e0e6c744ad.glb",
+    "createdAt": "2026-04-24T08:45:18.966Z"
+  },
+  {
+    "taskId": "f8b1c162-9ac7-4575-9e04-5d653649306e",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/f8b1c162-9ac7-4575-9e04-5d653649306e/tripo_pbr_model_f8b1c162-9ac7-4575-9e04-5d653649306e.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvZjhiMWMxNjItOWFjNy00NTc1LTllMDQtNWQ2NTM2NDkzMDZlL3RyaXBvX3Bicl9tb2RlbF9mOGIxYzE2Mi05YWM3LTQ1NzUtOWUwNC01ZDY1MzY0OTMwNmUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=VgszRNoHZsfKePeRT5FWPTjbIEDidEL49-KAHOL3b866oC~jTqMU0YaUXVytDDnIvo7hq6ZHbfQfuSC5awtN919FxNXvL-pHLarat4qUd1f~WaLPjLknGwxjdSDXnUUqxD72FMnSYZJRMuM2sEIH8kQxtmDnz7RTkxh2mmFPUBAXEtzJavfE1xxZJmGPtlo9W4lCMwZp0DwJzeOUBh3Bpy6jW5QWOHFhnlTSyXDnxezDdG9O2fZPMtnMBD9dR~6BM0KQ9p8K6I97zdOm0PjpnSHSGkqN46MYvXhxZKMmtRetwwXWsj-X1eiYfImDzepqiacP8l6GmJXmqdfyxVgaYA__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\f8b1c162-9ac7-4575-9e04-5d653649306e.glb",
+    "createdAt": "2026-04-24T07:46:04.556Z"
+  },
+  {
+    "taskId": "f8b1c162-9ac7-4575-9e04-5d653649306e",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/f8b1c162-9ac7-4575-9e04-5d653649306e/tripo_pbr_model_f8b1c162-9ac7-4575-9e04-5d653649306e.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvZjhiMWMxNjItOWFjNy00NTc1LTllMDQtNWQ2NTM2NDkzMDZlL3RyaXBvX3Bicl9tb2RlbF9mOGIxYzE2Mi05YWM3LTQ1NzUtOWUwNC01ZDY1MzY0OTMwNmUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=VgszRNoHZsfKePeRT5FWPTjbIEDidEL49-KAHOL3b866oC~jTqMU0YaUXVytDDnIvo7hq6ZHbfQfuSC5awtN919FxNXvL-pHLarat4qUd1f~WaLPjLknGwxjdSDXnUUqxD72FMnSYZJRMuM2sEIH8kQxtmDnz7RTkxh2mmFPUBAXEtzJavfE1xxZJmGPtlo9W4lCMwZp0DwJzeOUBh3Bpy6jW5QWOHFhnlTSyXDnxezDdG9O2fZPMtnMBD9dR~6BM0KQ9p8K6I97zdOm0PjpnSHSGkqN46MYvXhxZKMmtRetwwXWsj-X1eiYfImDzepqiacP8l6GmJXmqdfyxVgaYA__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\f8b1c162-9ac7-4575-9e04-5d653649306e.glb",
+    "createdAt": "2026-04-24T07:46:03.186Z"
+  },
+  {
+    "taskId": "f8b1c162-9ac7-4575-9e04-5d653649306e",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/f8b1c162-9ac7-4575-9e04-5d653649306e/tripo_pbr_model_f8b1c162-9ac7-4575-9e04-5d653649306e.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvZjhiMWMxNjItOWFjNy00NTc1LTllMDQtNWQ2NTM2NDkzMDZlL3RyaXBvX3Bicl9tb2RlbF9mOGIxYzE2Mi05YWM3LTQ1NzUtOWUwNC01ZDY1MzY0OTMwNmUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=VgszRNoHZsfKePeRT5FWPTjbIEDidEL49-KAHOL3b866oC~jTqMU0YaUXVytDDnIvo7hq6ZHbfQfuSC5awtN919FxNXvL-pHLarat4qUd1f~WaLPjLknGwxjdSDXnUUqxD72FMnSYZJRMuM2sEIH8kQxtmDnz7RTkxh2mmFPUBAXEtzJavfE1xxZJmGPtlo9W4lCMwZp0DwJzeOUBh3Bpy6jW5QWOHFhnlTSyXDnxezDdG9O2fZPMtnMBD9dR~6BM0KQ9p8K6I97zdOm0PjpnSHSGkqN46MYvXhxZKMmtRetwwXWsj-X1eiYfImDzepqiacP8l6GmJXmqdfyxVgaYA__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\f8b1c162-9ac7-4575-9e04-5d653649306e.glb",
+    "createdAt": "2026-04-24T07:46:02.099Z"
+  },
+  {
+    "taskId": "f8b1c162-9ac7-4575-9e04-5d653649306e",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/f8b1c162-9ac7-4575-9e04-5d653649306e/tripo_pbr_model_f8b1c162-9ac7-4575-9e04-5d653649306e.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvZjhiMWMxNjItOWFjNy00NTc1LTllMDQtNWQ2NTM2NDkzMDZlL3RyaXBvX3Bicl9tb2RlbF9mOGIxYzE2Mi05YWM3LTQ1NzUtOWUwNC01ZDY1MzY0OTMwNmUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=VgszRNoHZsfKePeRT5FWPTjbIEDidEL49-KAHOL3b866oC~jTqMU0YaUXVytDDnIvo7hq6ZHbfQfuSC5awtN919FxNXvL-pHLarat4qUd1f~WaLPjLknGwxjdSDXnUUqxD72FMnSYZJRMuM2sEIH8kQxtmDnz7RTkxh2mmFPUBAXEtzJavfE1xxZJmGPtlo9W4lCMwZp0DwJzeOUBh3Bpy6jW5QWOHFhnlTSyXDnxezDdG9O2fZPMtnMBD9dR~6BM0KQ9p8K6I97zdOm0PjpnSHSGkqN46MYvXhxZKMmtRetwwXWsj-X1eiYfImDzepqiacP8l6GmJXmqdfyxVgaYA__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\f8b1c162-9ac7-4575-9e04-5d653649306e.glb",
+    "createdAt": "2026-04-24T07:46:01.598Z"
+  },
+  {
+    "taskId": "f8b1c162-9ac7-4575-9e04-5d653649306e",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/f8b1c162-9ac7-4575-9e04-5d653649306e/tripo_pbr_model_f8b1c162-9ac7-4575-9e04-5d653649306e.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvZjhiMWMxNjItOWFjNy00NTc1LTllMDQtNWQ2NTM2NDkzMDZlL3RyaXBvX3Bicl9tb2RlbF9mOGIxYzE2Mi05YWM3LTQ1NzUtOWUwNC01ZDY1MzY0OTMwNmUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=VgszRNoHZsfKePeRT5FWPTjbIEDidEL49-KAHOL3b866oC~jTqMU0YaUXVytDDnIvo7hq6ZHbfQfuSC5awtN919FxNXvL-pHLarat4qUd1f~WaLPjLknGwxjdSDXnUUqxD72FMnSYZJRMuM2sEIH8kQxtmDnz7RTkxh2mmFPUBAXEtzJavfE1xxZJmGPtlo9W4lCMwZp0DwJzeOUBh3Bpy6jW5QWOHFhnlTSyXDnxezDdG9O2fZPMtnMBD9dR~6BM0KQ9p8K6I97zdOm0PjpnSHSGkqN46MYvXhxZKMmtRetwwXWsj-X1eiYfImDzepqiacP8l6GmJXmqdfyxVgaYA__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\f8b1c162-9ac7-4575-9e04-5d653649306e.glb",
+    "createdAt": "2026-04-24T07:46:01.031Z"
+  },
+  {
+    "taskId": "f8b1c162-9ac7-4575-9e04-5d653649306e",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/f8b1c162-9ac7-4575-9e04-5d653649306e/tripo_pbr_model_f8b1c162-9ac7-4575-9e04-5d653649306e.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvZjhiMWMxNjItOWFjNy00NTc1LTllMDQtNWQ2NTM2NDkzMDZlL3RyaXBvX3Bicl9tb2RlbF9mOGIxYzE2Mi05YWM3LTQ1NzUtOWUwNC01ZDY1MzY0OTMwNmUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=VgszRNoHZsfKePeRT5FWPTjbIEDidEL49-KAHOL3b866oC~jTqMU0YaUXVytDDnIvo7hq6ZHbfQfuSC5awtN919FxNXvL-pHLarat4qUd1f~WaLPjLknGwxjdSDXnUUqxD72FMnSYZJRMuM2sEIH8kQxtmDnz7RTkxh2mmFPUBAXEtzJavfE1xxZJmGPtlo9W4lCMwZp0DwJzeOUBh3Bpy6jW5QWOHFhnlTSyXDnxezDdG9O2fZPMtnMBD9dR~6BM0KQ9p8K6I97zdOm0PjpnSHSGkqN46MYvXhxZKMmtRetwwXWsj-X1eiYfImDzepqiacP8l6GmJXmqdfyxVgaYA__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\f8b1c162-9ac7-4575-9e04-5d653649306e.glb",
+    "createdAt": "2026-04-24T07:46:00.010Z"
+  },
+  {
+    "taskId": "f8b1c162-9ac7-4575-9e04-5d653649306e",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/f8b1c162-9ac7-4575-9e04-5d653649306e/tripo_pbr_model_f8b1c162-9ac7-4575-9e04-5d653649306e.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvZjhiMWMxNjItOWFjNy00NTc1LTllMDQtNWQ2NTM2NDkzMDZlL3RyaXBvX3Bicl9tb2RlbF9mOGIxYzE2Mi05YWM3LTQ1NzUtOWUwNC01ZDY1MzY0OTMwNmUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=VgszRNoHZsfKePeRT5FWPTjbIEDidEL49-KAHOL3b866oC~jTqMU0YaUXVytDDnIvo7hq6ZHbfQfuSC5awtN919FxNXvL-pHLarat4qUd1f~WaLPjLknGwxjdSDXnUUqxD72FMnSYZJRMuM2sEIH8kQxtmDnz7RTkxh2mmFPUBAXEtzJavfE1xxZJmGPtlo9W4lCMwZp0DwJzeOUBh3Bpy6jW5QWOHFhnlTSyXDnxezDdG9O2fZPMtnMBD9dR~6BM0KQ9p8K6I97zdOm0PjpnSHSGkqN46MYvXhxZKMmtRetwwXWsj-X1eiYfImDzepqiacP8l6GmJXmqdfyxVgaYA__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\f8b1c162-9ac7-4575-9e04-5d653649306e.glb",
+    "createdAt": "2026-04-24T07:45:59.296Z"
+  },
+  {
+    "taskId": "f8b1c162-9ac7-4575-9e04-5d653649306e",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/f8b1c162-9ac7-4575-9e04-5d653649306e/tripo_pbr_model_f8b1c162-9ac7-4575-9e04-5d653649306e.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvZjhiMWMxNjItOWFjNy00NTc1LTllMDQtNWQ2NTM2NDkzMDZlL3RyaXBvX3Bicl9tb2RlbF9mOGIxYzE2Mi05YWM3LTQ1NzUtOWUwNC01ZDY1MzY0OTMwNmUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=VgszRNoHZsfKePeRT5FWPTjbIEDidEL49-KAHOL3b866oC~jTqMU0YaUXVytDDnIvo7hq6ZHbfQfuSC5awtN919FxNXvL-pHLarat4qUd1f~WaLPjLknGwxjdSDXnUUqxD72FMnSYZJRMuM2sEIH8kQxtmDnz7RTkxh2mmFPUBAXEtzJavfE1xxZJmGPtlo9W4lCMwZp0DwJzeOUBh3Bpy6jW5QWOHFhnlTSyXDnxezDdG9O2fZPMtnMBD9dR~6BM0KQ9p8K6I97zdOm0PjpnSHSGkqN46MYvXhxZKMmtRetwwXWsj-X1eiYfImDzepqiacP8l6GmJXmqdfyxVgaYA__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\f8b1c162-9ac7-4575-9e04-5d653649306e.glb",
+    "createdAt": "2026-04-24T07:45:58.375Z"
+  },
+  {
+    "taskId": "f8b1c162-9ac7-4575-9e04-5d653649306e",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/f8b1c162-9ac7-4575-9e04-5d653649306e/tripo_pbr_model_f8b1c162-9ac7-4575-9e04-5d653649306e.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvZjhiMWMxNjItOWFjNy00NTc1LTllMDQtNWQ2NTM2NDkzMDZlL3RyaXBvX3Bicl9tb2RlbF9mOGIxYzE2Mi05YWM3LTQ1NzUtOWUwNC01ZDY1MzY0OTMwNmUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=VgszRNoHZsfKePeRT5FWPTjbIEDidEL49-KAHOL3b866oC~jTqMU0YaUXVytDDnIvo7hq6ZHbfQfuSC5awtN919FxNXvL-pHLarat4qUd1f~WaLPjLknGwxjdSDXnUUqxD72FMnSYZJRMuM2sEIH8kQxtmDnz7RTkxh2mmFPUBAXEtzJavfE1xxZJmGPtlo9W4lCMwZp0DwJzeOUBh3Bpy6jW5QWOHFhnlTSyXDnxezDdG9O2fZPMtnMBD9dR~6BM0KQ9p8K6I97zdOm0PjpnSHSGkqN46MYvXhxZKMmtRetwwXWsj-X1eiYfImDzepqiacP8l6GmJXmqdfyxVgaYA__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\f8b1c162-9ac7-4575-9e04-5d653649306e.glb",
+    "createdAt": "2026-04-24T07:45:57.339Z"
+  },
+  {
+    "taskId": "f8b1c162-9ac7-4575-9e04-5d653649306e",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/f8b1c162-9ac7-4575-9e04-5d653649306e/tripo_pbr_model_f8b1c162-9ac7-4575-9e04-5d653649306e.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvZjhiMWMxNjItOWFjNy00NTc1LTllMDQtNWQ2NTM2NDkzMDZlL3RyaXBvX3Bicl9tb2RlbF9mOGIxYzE2Mi05YWM3LTQ1NzUtOWUwNC01ZDY1MzY0OTMwNmUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=VgszRNoHZsfKePeRT5FWPTjbIEDidEL49-KAHOL3b866oC~jTqMU0YaUXVytDDnIvo7hq6ZHbfQfuSC5awtN919FxNXvL-pHLarat4qUd1f~WaLPjLknGwxjdSDXnUUqxD72FMnSYZJRMuM2sEIH8kQxtmDnz7RTkxh2mmFPUBAXEtzJavfE1xxZJmGPtlo9W4lCMwZp0DwJzeOUBh3Bpy6jW5QWOHFhnlTSyXDnxezDdG9O2fZPMtnMBD9dR~6BM0KQ9p8K6I97zdOm0PjpnSHSGkqN46MYvXhxZKMmtRetwwXWsj-X1eiYfImDzepqiacP8l6GmJXmqdfyxVgaYA__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\f8b1c162-9ac7-4575-9e04-5d653649306e.glb",
+    "createdAt": "2026-04-24T07:45:56.553Z"
+  },
+  {
+    "taskId": "f8b1c162-9ac7-4575-9e04-5d653649306e",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/f8b1c162-9ac7-4575-9e04-5d653649306e/tripo_pbr_model_f8b1c162-9ac7-4575-9e04-5d653649306e.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvZjhiMWMxNjItOWFjNy00NTc1LTllMDQtNWQ2NTM2NDkzMDZlL3RyaXBvX3Bicl9tb2RlbF9mOGIxYzE2Mi05YWM3LTQ1NzUtOWUwNC01ZDY1MzY0OTMwNmUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=VgszRNoHZsfKePeRT5FWPTjbIEDidEL49-KAHOL3b866oC~jTqMU0YaUXVytDDnIvo7hq6ZHbfQfuSC5awtN919FxNXvL-pHLarat4qUd1f~WaLPjLknGwxjdSDXnUUqxD72FMnSYZJRMuM2sEIH8kQxtmDnz7RTkxh2mmFPUBAXEtzJavfE1xxZJmGPtlo9W4lCMwZp0DwJzeOUBh3Bpy6jW5QWOHFhnlTSyXDnxezDdG9O2fZPMtnMBD9dR~6BM0KQ9p8K6I97zdOm0PjpnSHSGkqN46MYvXhxZKMmtRetwwXWsj-X1eiYfImDzepqiacP8l6GmJXmqdfyxVgaYA__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\f8b1c162-9ac7-4575-9e04-5d653649306e.glb",
+    "createdAt": "2026-04-24T07:45:55.836Z"
+  },
+  {
+    "taskId": "f8b1c162-9ac7-4575-9e04-5d653649306e",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/f8b1c162-9ac7-4575-9e04-5d653649306e/tripo_pbr_model_f8b1c162-9ac7-4575-9e04-5d653649306e.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvZjhiMWMxNjItOWFjNy00NTc1LTllMDQtNWQ2NTM2NDkzMDZlL3RyaXBvX3Bicl9tb2RlbF9mOGIxYzE2Mi05YWM3LTQ1NzUtOWUwNC01ZDY1MzY0OTMwNmUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=VgszRNoHZsfKePeRT5FWPTjbIEDidEL49-KAHOL3b866oC~jTqMU0YaUXVytDDnIvo7hq6ZHbfQfuSC5awtN919FxNXvL-pHLarat4qUd1f~WaLPjLknGwxjdSDXnUUqxD72FMnSYZJRMuM2sEIH8kQxtmDnz7RTkxh2mmFPUBAXEtzJavfE1xxZJmGPtlo9W4lCMwZp0DwJzeOUBh3Bpy6jW5QWOHFhnlTSyXDnxezDdG9O2fZPMtnMBD9dR~6BM0KQ9p8K6I97zdOm0PjpnSHSGkqN46MYvXhxZKMmtRetwwXWsj-X1eiYfImDzepqiacP8l6GmJXmqdfyxVgaYA__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\f8b1c162-9ac7-4575-9e04-5d653649306e.glb",
+    "createdAt": "2026-04-24T07:45:54.696Z"
+  },
+  {
+    "taskId": "f8b1c162-9ac7-4575-9e04-5d653649306e",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/f8b1c162-9ac7-4575-9e04-5d653649306e/tripo_pbr_model_f8b1c162-9ac7-4575-9e04-5d653649306e.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvZjhiMWMxNjItOWFjNy00NTc1LTllMDQtNWQ2NTM2NDkzMDZlL3RyaXBvX3Bicl9tb2RlbF9mOGIxYzE2Mi05YWM3LTQ1NzUtOWUwNC01ZDY1MzY0OTMwNmUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=VgszRNoHZsfKePeRT5FWPTjbIEDidEL49-KAHOL3b866oC~jTqMU0YaUXVytDDnIvo7hq6ZHbfQfuSC5awtN919FxNXvL-pHLarat4qUd1f~WaLPjLknGwxjdSDXnUUqxD72FMnSYZJRMuM2sEIH8kQxtmDnz7RTkxh2mmFPUBAXEtzJavfE1xxZJmGPtlo9W4lCMwZp0DwJzeOUBh3Bpy6jW5QWOHFhnlTSyXDnxezDdG9O2fZPMtnMBD9dR~6BM0KQ9p8K6I97zdOm0PjpnSHSGkqN46MYvXhxZKMmtRetwwXWsj-X1eiYfImDzepqiacP8l6GmJXmqdfyxVgaYA__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\f8b1c162-9ac7-4575-9e04-5d653649306e.glb",
+    "createdAt": "2026-04-24T07:45:52.771Z"
+  },
+  {
+    "taskId": "f8b1c162-9ac7-4575-9e04-5d653649306e",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/f8b1c162-9ac7-4575-9e04-5d653649306e/tripo_pbr_model_f8b1c162-9ac7-4575-9e04-5d653649306e.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvZjhiMWMxNjItOWFjNy00NTc1LTllMDQtNWQ2NTM2NDkzMDZlL3RyaXBvX3Bicl9tb2RlbF9mOGIxYzE2Mi05YWM3LTQ1NzUtOWUwNC01ZDY1MzY0OTMwNmUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=VgszRNoHZsfKePeRT5FWPTjbIEDidEL49-KAHOL3b866oC~jTqMU0YaUXVytDDnIvo7hq6ZHbfQfuSC5awtN919FxNXvL-pHLarat4qUd1f~WaLPjLknGwxjdSDXnUUqxD72FMnSYZJRMuM2sEIH8kQxtmDnz7RTkxh2mmFPUBAXEtzJavfE1xxZJmGPtlo9W4lCMwZp0DwJzeOUBh3Bpy6jW5QWOHFhnlTSyXDnxezDdG9O2fZPMtnMBD9dR~6BM0KQ9p8K6I97zdOm0PjpnSHSGkqN46MYvXhxZKMmtRetwwXWsj-X1eiYfImDzepqiacP8l6GmJXmqdfyxVgaYA__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\f8b1c162-9ac7-4575-9e04-5d653649306e.glb",
+    "createdAt": "2026-04-24T07:45:51.695Z"
+  },
+  {
+    "taskId": "f8b1c162-9ac7-4575-9e04-5d653649306e",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/f8b1c162-9ac7-4575-9e04-5d653649306e/tripo_pbr_model_f8b1c162-9ac7-4575-9e04-5d653649306e.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvZjhiMWMxNjItOWFjNy00NTc1LTllMDQtNWQ2NTM2NDkzMDZlL3RyaXBvX3Bicl9tb2RlbF9mOGIxYzE2Mi05YWM3LTQ1NzUtOWUwNC01ZDY1MzY0OTMwNmUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=VgszRNoHZsfKePeRT5FWPTjbIEDidEL49-KAHOL3b866oC~jTqMU0YaUXVytDDnIvo7hq6ZHbfQfuSC5awtN919FxNXvL-pHLarat4qUd1f~WaLPjLknGwxjdSDXnUUqxD72FMnSYZJRMuM2sEIH8kQxtmDnz7RTkxh2mmFPUBAXEtzJavfE1xxZJmGPtlo9W4lCMwZp0DwJzeOUBh3Bpy6jW5QWOHFhnlTSyXDnxezDdG9O2fZPMtnMBD9dR~6BM0KQ9p8K6I97zdOm0PjpnSHSGkqN46MYvXhxZKMmtRetwwXWsj-X1eiYfImDzepqiacP8l6GmJXmqdfyxVgaYA__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\f8b1c162-9ac7-4575-9e04-5d653649306e.glb",
+    "createdAt": "2026-04-24T07:45:51.099Z"
+  },
+  {
+    "taskId": "f8b1c162-9ac7-4575-9e04-5d653649306e",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/f8b1c162-9ac7-4575-9e04-5d653649306e/tripo_pbr_model_f8b1c162-9ac7-4575-9e04-5d653649306e.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvZjhiMWMxNjItOWFjNy00NTc1LTllMDQtNWQ2NTM2NDkzMDZlL3RyaXBvX3Bicl9tb2RlbF9mOGIxYzE2Mi05YWM3LTQ1NzUtOWUwNC01ZDY1MzY0OTMwNmUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=VgszRNoHZsfKePeRT5FWPTjbIEDidEL49-KAHOL3b866oC~jTqMU0YaUXVytDDnIvo7hq6ZHbfQfuSC5awtN919FxNXvL-pHLarat4qUd1f~WaLPjLknGwxjdSDXnUUqxD72FMnSYZJRMuM2sEIH8kQxtmDnz7RTkxh2mmFPUBAXEtzJavfE1xxZJmGPtlo9W4lCMwZp0DwJzeOUBh3Bpy6jW5QWOHFhnlTSyXDnxezDdG9O2fZPMtnMBD9dR~6BM0KQ9p8K6I97zdOm0PjpnSHSGkqN46MYvXhxZKMmtRetwwXWsj-X1eiYfImDzepqiacP8l6GmJXmqdfyxVgaYA__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\f8b1c162-9ac7-4575-9e04-5d653649306e.glb",
+    "createdAt": "2026-04-24T07:45:50.413Z"
+  },
+  {
+    "taskId": "f8b1c162-9ac7-4575-9e04-5d653649306e",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/f8b1c162-9ac7-4575-9e04-5d653649306e/tripo_pbr_model_f8b1c162-9ac7-4575-9e04-5d653649306e.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvZjhiMWMxNjItOWFjNy00NTc1LTllMDQtNWQ2NTM2NDkzMDZlL3RyaXBvX3Bicl9tb2RlbF9mOGIxYzE2Mi05YWM3LTQ1NzUtOWUwNC01ZDY1MzY0OTMwNmUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=VgszRNoHZsfKePeRT5FWPTjbIEDidEL49-KAHOL3b866oC~jTqMU0YaUXVytDDnIvo7hq6ZHbfQfuSC5awtN919FxNXvL-pHLarat4qUd1f~WaLPjLknGwxjdSDXnUUqxD72FMnSYZJRMuM2sEIH8kQxtmDnz7RTkxh2mmFPUBAXEtzJavfE1xxZJmGPtlo9W4lCMwZp0DwJzeOUBh3Bpy6jW5QWOHFhnlTSyXDnxezDdG9O2fZPMtnMBD9dR~6BM0KQ9p8K6I97zdOm0PjpnSHSGkqN46MYvXhxZKMmtRetwwXWsj-X1eiYfImDzepqiacP8l6GmJXmqdfyxVgaYA__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\f8b1c162-9ac7-4575-9e04-5d653649306e.glb",
+    "createdAt": "2026-04-24T07:45:50.385Z"
+  },
+  {
+    "taskId": "f8b1c162-9ac7-4575-9e04-5d653649306e",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/f8b1c162-9ac7-4575-9e04-5d653649306e/tripo_pbr_model_f8b1c162-9ac7-4575-9e04-5d653649306e.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvZjhiMWMxNjItOWFjNy00NTc1LTllMDQtNWQ2NTM2NDkzMDZlL3RyaXBvX3Bicl9tb2RlbF9mOGIxYzE2Mi05YWM3LTQ1NzUtOWUwNC01ZDY1MzY0OTMwNmUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=VgszRNoHZsfKePeRT5FWPTjbIEDidEL49-KAHOL3b866oC~jTqMU0YaUXVytDDnIvo7hq6ZHbfQfuSC5awtN919FxNXvL-pHLarat4qUd1f~WaLPjLknGwxjdSDXnUUqxD72FMnSYZJRMuM2sEIH8kQxtmDnz7RTkxh2mmFPUBAXEtzJavfE1xxZJmGPtlo9W4lCMwZp0DwJzeOUBh3Bpy6jW5QWOHFhnlTSyXDnxezDdG9O2fZPMtnMBD9dR~6BM0KQ9p8K6I97zdOm0PjpnSHSGkqN46MYvXhxZKMmtRetwwXWsj-X1eiYfImDzepqiacP8l6GmJXmqdfyxVgaYA__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\f8b1c162-9ac7-4575-9e04-5d653649306e.glb",
+    "createdAt": "2026-04-24T07:45:49.390Z"
+  },
+  {
+    "taskId": "f8b1c162-9ac7-4575-9e04-5d653649306e",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/f8b1c162-9ac7-4575-9e04-5d653649306e/tripo_pbr_model_f8b1c162-9ac7-4575-9e04-5d653649306e.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvZjhiMWMxNjItOWFjNy00NTc1LTllMDQtNWQ2NTM2NDkzMDZlL3RyaXBvX3Bicl9tb2RlbF9mOGIxYzE2Mi05YWM3LTQ1NzUtOWUwNC01ZDY1MzY0OTMwNmUuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=VgszRNoHZsfKePeRT5FWPTjbIEDidEL49-KAHOL3b866oC~jTqMU0YaUXVytDDnIvo7hq6ZHbfQfuSC5awtN919FxNXvL-pHLarat4qUd1f~WaLPjLknGwxjdSDXnUUqxD72FMnSYZJRMuM2sEIH8kQxtmDnz7RTkxh2mmFPUBAXEtzJavfE1xxZJmGPtlo9W4lCMwZp0DwJzeOUBh3Bpy6jW5QWOHFhnlTSyXDnxezDdG9O2fZPMtnMBD9dR~6BM0KQ9p8K6I97zdOm0PjpnSHSGkqN46MYvXhxZKMmtRetwwXWsj-X1eiYfImDzepqiacP8l6GmJXmqdfyxVgaYA__",
+    "file": "D:\\Eutech\\3d-converter-app v3\\models\\f8b1c162-9ac7-4575-9e04-5d653649306e.glb",
+    "createdAt": "2026-04-24T07:45:49.175Z"
+  },
+  {
+    "taskId": "1a1a0efd-87f9-496e-b0cb-7f01f3fbf273",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/1a1a0efd-87f9-496e-b0cb-7f01f3fbf273/tripo_pbr_model_1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvMWExYTBlZmQtODdmOS00OTZlLWIwY2ItN2YwMWYzZmJmMjczL3RyaXBvX3Bicl9tb2RlbF8xYTFhMGVmZC04N2Y5LTQ5NmUtYjBjYi03ZjAxZjNmYmYyNzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=cRgovi3r6J~kXlG9bhIVLRMI5tdBqAV7iablqA7GaSt2WiEECvW2DF9CM2PAz-SRHGX0hznY8tl7bpf-P0xmpE0Z2Ubo100tBn9vGc4UKfBrrLrwDQkP3IoM8bBM3VVJ7LtOA3pDH7FEttOxiiTXUdhogzbthLX2j1UU0KN3paNak2haEMb-gYkGY70V-7roh5MaT6Lo6BdIJMMYXUowqnz9SIJBHTPJUao0k4PiKKCtLqyOKRwQ7y9VODxbxWRMYr7ibs7ktB313kGDnNZ3~AK7xw6u5RvIbhBBBWBYC5Wk0iWHTLWVIKtWLGHrKrx-WoLdYisbF7EJFnS9jOcKyg__",
+    "file": "D:\\Eutech\\3d-converter-app v2\\models\\1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb",
+    "createdAt": "2026-04-24T06:33:05.840Z"
+  },
+  {
+    "taskId": "1a1a0efd-87f9-496e-b0cb-7f01f3fbf273",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/1a1a0efd-87f9-496e-b0cb-7f01f3fbf273/tripo_pbr_model_1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvMWExYTBlZmQtODdmOS00OTZlLWIwY2ItN2YwMWYzZmJmMjczL3RyaXBvX3Bicl9tb2RlbF8xYTFhMGVmZC04N2Y5LTQ5NmUtYjBjYi03ZjAxZjNmYmYyNzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=cRgovi3r6J~kXlG9bhIVLRMI5tdBqAV7iablqA7GaSt2WiEECvW2DF9CM2PAz-SRHGX0hznY8tl7bpf-P0xmpE0Z2Ubo100tBn9vGc4UKfBrrLrwDQkP3IoM8bBM3VVJ7LtOA3pDH7FEttOxiiTXUdhogzbthLX2j1UU0KN3paNak2haEMb-gYkGY70V-7roh5MaT6Lo6BdIJMMYXUowqnz9SIJBHTPJUao0k4PiKKCtLqyOKRwQ7y9VODxbxWRMYr7ibs7ktB313kGDnNZ3~AK7xw6u5RvIbhBBBWBYC5Wk0iWHTLWVIKtWLGHrKrx-WoLdYisbF7EJFnS9jOcKyg__",
+    "file": "D:\\Eutech\\3d-converter-app v2\\models\\1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb",
+    "createdAt": "2026-04-24T06:33:05.087Z"
+  },
+  {
+    "taskId": "1a1a0efd-87f9-496e-b0cb-7f01f3fbf273",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/1a1a0efd-87f9-496e-b0cb-7f01f3fbf273/tripo_pbr_model_1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvMWExYTBlZmQtODdmOS00OTZlLWIwY2ItN2YwMWYzZmJmMjczL3RyaXBvX3Bicl9tb2RlbF8xYTFhMGVmZC04N2Y5LTQ5NmUtYjBjYi03ZjAxZjNmYmYyNzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=cRgovi3r6J~kXlG9bhIVLRMI5tdBqAV7iablqA7GaSt2WiEECvW2DF9CM2PAz-SRHGX0hznY8tl7bpf-P0xmpE0Z2Ubo100tBn9vGc4UKfBrrLrwDQkP3IoM8bBM3VVJ7LtOA3pDH7FEttOxiiTXUdhogzbthLX2j1UU0KN3paNak2haEMb-gYkGY70V-7roh5MaT6Lo6BdIJMMYXUowqnz9SIJBHTPJUao0k4PiKKCtLqyOKRwQ7y9VODxbxWRMYr7ibs7ktB313kGDnNZ3~AK7xw6u5RvIbhBBBWBYC5Wk0iWHTLWVIKtWLGHrKrx-WoLdYisbF7EJFnS9jOcKyg__",
+    "file": "D:\\Eutech\\3d-converter-app v2\\models\\1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb",
+    "createdAt": "2026-04-24T06:33:03.274Z"
+  },
+  {
+    "taskId": "1a1a0efd-87f9-496e-b0cb-7f01f3fbf273",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/1a1a0efd-87f9-496e-b0cb-7f01f3fbf273/tripo_pbr_model_1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvMWExYTBlZmQtODdmOS00OTZlLWIwY2ItN2YwMWYzZmJmMjczL3RyaXBvX3Bicl9tb2RlbF8xYTFhMGVmZC04N2Y5LTQ5NmUtYjBjYi03ZjAxZjNmYmYyNzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=cRgovi3r6J~kXlG9bhIVLRMI5tdBqAV7iablqA7GaSt2WiEECvW2DF9CM2PAz-SRHGX0hznY8tl7bpf-P0xmpE0Z2Ubo100tBn9vGc4UKfBrrLrwDQkP3IoM8bBM3VVJ7LtOA3pDH7FEttOxiiTXUdhogzbthLX2j1UU0KN3paNak2haEMb-gYkGY70V-7roh5MaT6Lo6BdIJMMYXUowqnz9SIJBHTPJUao0k4PiKKCtLqyOKRwQ7y9VODxbxWRMYr7ibs7ktB313kGDnNZ3~AK7xw6u5RvIbhBBBWBYC5Wk0iWHTLWVIKtWLGHrKrx-WoLdYisbF7EJFnS9jOcKyg__",
+    "file": "D:\\Eutech\\3d-converter-app v2\\models\\1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb",
+    "createdAt": "2026-04-24T06:33:03.161Z"
+  },
+  {
+    "taskId": "1a1a0efd-87f9-496e-b0cb-7f01f3fbf273",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/1a1a0efd-87f9-496e-b0cb-7f01f3fbf273/tripo_pbr_model_1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvMWExYTBlZmQtODdmOS00OTZlLWIwY2ItN2YwMWYzZmJmMjczL3RyaXBvX3Bicl9tb2RlbF8xYTFhMGVmZC04N2Y5LTQ5NmUtYjBjYi03ZjAxZjNmYmYyNzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=cRgovi3r6J~kXlG9bhIVLRMI5tdBqAV7iablqA7GaSt2WiEECvW2DF9CM2PAz-SRHGX0hznY8tl7bpf-P0xmpE0Z2Ubo100tBn9vGc4UKfBrrLrwDQkP3IoM8bBM3VVJ7LtOA3pDH7FEttOxiiTXUdhogzbthLX2j1UU0KN3paNak2haEMb-gYkGY70V-7roh5MaT6Lo6BdIJMMYXUowqnz9SIJBHTPJUao0k4PiKKCtLqyOKRwQ7y9VODxbxWRMYr7ibs7ktB313kGDnNZ3~AK7xw6u5RvIbhBBBWBYC5Wk0iWHTLWVIKtWLGHrKrx-WoLdYisbF7EJFnS9jOcKyg__",
+    "file": "D:\\Eutech\\3d-converter-app v2\\models\\1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb",
+    "createdAt": "2026-04-24T06:33:02.245Z"
+  },
+  {
+    "taskId": "1a1a0efd-87f9-496e-b0cb-7f01f3fbf273",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/1a1a0efd-87f9-496e-b0cb-7f01f3fbf273/tripo_pbr_model_1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvMWExYTBlZmQtODdmOS00OTZlLWIwY2ItN2YwMWYzZmJmMjczL3RyaXBvX3Bicl9tb2RlbF8xYTFhMGVmZC04N2Y5LTQ5NmUtYjBjYi03ZjAxZjNmYmYyNzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=cRgovi3r6J~kXlG9bhIVLRMI5tdBqAV7iablqA7GaSt2WiEECvW2DF9CM2PAz-SRHGX0hznY8tl7bpf-P0xmpE0Z2Ubo100tBn9vGc4UKfBrrLrwDQkP3IoM8bBM3VVJ7LtOA3pDH7FEttOxiiTXUdhogzbthLX2j1UU0KN3paNak2haEMb-gYkGY70V-7roh5MaT6Lo6BdIJMMYXUowqnz9SIJBHTPJUao0k4PiKKCtLqyOKRwQ7y9VODxbxWRMYr7ibs7ktB313kGDnNZ3~AK7xw6u5RvIbhBBBWBYC5Wk0iWHTLWVIKtWLGHrKrx-WoLdYisbF7EJFnS9jOcKyg__",
+    "file": "D:\\Eutech\\3d-converter-app v2\\models\\1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb",
+    "createdAt": "2026-04-24T06:33:02.143Z"
+  },
+  {
+    "taskId": "1a1a0efd-87f9-496e-b0cb-7f01f3fbf273",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/1a1a0efd-87f9-496e-b0cb-7f01f3fbf273/tripo_pbr_model_1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvMWExYTBlZmQtODdmOS00OTZlLWIwY2ItN2YwMWYzZmJmMjczL3RyaXBvX3Bicl9tb2RlbF8xYTFhMGVmZC04N2Y5LTQ5NmUtYjBjYi03ZjAxZjNmYmYyNzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=cRgovi3r6J~kXlG9bhIVLRMI5tdBqAV7iablqA7GaSt2WiEECvW2DF9CM2PAz-SRHGX0hznY8tl7bpf-P0xmpE0Z2Ubo100tBn9vGc4UKfBrrLrwDQkP3IoM8bBM3VVJ7LtOA3pDH7FEttOxiiTXUdhogzbthLX2j1UU0KN3paNak2haEMb-gYkGY70V-7roh5MaT6Lo6BdIJMMYXUowqnz9SIJBHTPJUao0k4PiKKCtLqyOKRwQ7y9VODxbxWRMYr7ibs7ktB313kGDnNZ3~AK7xw6u5RvIbhBBBWBYC5Wk0iWHTLWVIKtWLGHrKrx-WoLdYisbF7EJFnS9jOcKyg__",
+    "file": "D:\\Eutech\\3d-converter-app v2\\models\\1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb",
+    "createdAt": "2026-04-24T06:33:00.478Z"
+  },
+  {
+    "taskId": "1a1a0efd-87f9-496e-b0cb-7f01f3fbf273",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/1a1a0efd-87f9-496e-b0cb-7f01f3fbf273/tripo_pbr_model_1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvMWExYTBlZmQtODdmOS00OTZlLWIwY2ItN2YwMWYzZmJmMjczL3RyaXBvX3Bicl9tb2RlbF8xYTFhMGVmZC04N2Y5LTQ5NmUtYjBjYi03ZjAxZjNmYmYyNzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=cRgovi3r6J~kXlG9bhIVLRMI5tdBqAV7iablqA7GaSt2WiEECvW2DF9CM2PAz-SRHGX0hznY8tl7bpf-P0xmpE0Z2Ubo100tBn9vGc4UKfBrrLrwDQkP3IoM8bBM3VVJ7LtOA3pDH7FEttOxiiTXUdhogzbthLX2j1UU0KN3paNak2haEMb-gYkGY70V-7roh5MaT6Lo6BdIJMMYXUowqnz9SIJBHTPJUao0k4PiKKCtLqyOKRwQ7y9VODxbxWRMYr7ibs7ktB313kGDnNZ3~AK7xw6u5RvIbhBBBWBYC5Wk0iWHTLWVIKtWLGHrKrx-WoLdYisbF7EJFnS9jOcKyg__",
+    "file": "D:\\Eutech\\3d-converter-app v2\\models\\1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb",
+    "createdAt": "2026-04-24T06:32:59.722Z"
+  },
+  {
+    "taskId": "1a1a0efd-87f9-496e-b0cb-7f01f3fbf273",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/1a1a0efd-87f9-496e-b0cb-7f01f3fbf273/tripo_pbr_model_1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvMWExYTBlZmQtODdmOS00OTZlLWIwY2ItN2YwMWYzZmJmMjczL3RyaXBvX3Bicl9tb2RlbF8xYTFhMGVmZC04N2Y5LTQ5NmUtYjBjYi03ZjAxZjNmYmYyNzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=cRgovi3r6J~kXlG9bhIVLRMI5tdBqAV7iablqA7GaSt2WiEECvW2DF9CM2PAz-SRHGX0hznY8tl7bpf-P0xmpE0Z2Ubo100tBn9vGc4UKfBrrLrwDQkP3IoM8bBM3VVJ7LtOA3pDH7FEttOxiiTXUdhogzbthLX2j1UU0KN3paNak2haEMb-gYkGY70V-7roh5MaT6Lo6BdIJMMYXUowqnz9SIJBHTPJUao0k4PiKKCtLqyOKRwQ7y9VODxbxWRMYr7ibs7ktB313kGDnNZ3~AK7xw6u5RvIbhBBBWBYC5Wk0iWHTLWVIKtWLGHrKrx-WoLdYisbF7EJFnS9jOcKyg__",
+    "file": "D:\\Eutech\\3d-converter-app v2\\models\\1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb",
+    "createdAt": "2026-04-24T06:32:58.448Z"
+  },
+  {
+    "taskId": "1a1a0efd-87f9-496e-b0cb-7f01f3fbf273",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/1a1a0efd-87f9-496e-b0cb-7f01f3fbf273/tripo_pbr_model_1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvMWExYTBlZmQtODdmOS00OTZlLWIwY2ItN2YwMWYzZmJmMjczL3RyaXBvX3Bicl9tb2RlbF8xYTFhMGVmZC04N2Y5LTQ5NmUtYjBjYi03ZjAxZjNmYmYyNzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=cRgovi3r6J~kXlG9bhIVLRMI5tdBqAV7iablqA7GaSt2WiEECvW2DF9CM2PAz-SRHGX0hznY8tl7bpf-P0xmpE0Z2Ubo100tBn9vGc4UKfBrrLrwDQkP3IoM8bBM3VVJ7LtOA3pDH7FEttOxiiTXUdhogzbthLX2j1UU0KN3paNak2haEMb-gYkGY70V-7roh5MaT6Lo6BdIJMMYXUowqnz9SIJBHTPJUao0k4PiKKCtLqyOKRwQ7y9VODxbxWRMYr7ibs7ktB313kGDnNZ3~AK7xw6u5RvIbhBBBWBYC5Wk0iWHTLWVIKtWLGHrKrx-WoLdYisbF7EJFnS9jOcKyg__",
+    "file": "D:\\Eutech\\3d-converter-app v2\\models\\1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb",
+    "createdAt": "2026-04-24T06:32:57.491Z"
+  },
+  {
+    "taskId": "1a1a0efd-87f9-496e-b0cb-7f01f3fbf273",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/1a1a0efd-87f9-496e-b0cb-7f01f3fbf273/tripo_pbr_model_1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvMWExYTBlZmQtODdmOS00OTZlLWIwY2ItN2YwMWYzZmJmMjczL3RyaXBvX3Bicl9tb2RlbF8xYTFhMGVmZC04N2Y5LTQ5NmUtYjBjYi03ZjAxZjNmYmYyNzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=cRgovi3r6J~kXlG9bhIVLRMI5tdBqAV7iablqA7GaSt2WiEECvW2DF9CM2PAz-SRHGX0hznY8tl7bpf-P0xmpE0Z2Ubo100tBn9vGc4UKfBrrLrwDQkP3IoM8bBM3VVJ7LtOA3pDH7FEttOxiiTXUdhogzbthLX2j1UU0KN3paNak2haEMb-gYkGY70V-7roh5MaT6Lo6BdIJMMYXUowqnz9SIJBHTPJUao0k4PiKKCtLqyOKRwQ7y9VODxbxWRMYr7ibs7ktB313kGDnNZ3~AK7xw6u5RvIbhBBBWBYC5Wk0iWHTLWVIKtWLGHrKrx-WoLdYisbF7EJFnS9jOcKyg__",
+    "file": "D:\\Eutech\\3d-converter-app v2\\models\\1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb",
+    "createdAt": "2026-04-24T06:32:56.325Z"
+  },
+  {
+    "taskId": "1a1a0efd-87f9-496e-b0cb-7f01f3fbf273",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/1a1a0efd-87f9-496e-b0cb-7f01f3fbf273/tripo_pbr_model_1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvMWExYTBlZmQtODdmOS00OTZlLWIwY2ItN2YwMWYzZmJmMjczL3RyaXBvX3Bicl9tb2RlbF8xYTFhMGVmZC04N2Y5LTQ5NmUtYjBjYi03ZjAxZjNmYmYyNzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=cRgovi3r6J~kXlG9bhIVLRMI5tdBqAV7iablqA7GaSt2WiEECvW2DF9CM2PAz-SRHGX0hznY8tl7bpf-P0xmpE0Z2Ubo100tBn9vGc4UKfBrrLrwDQkP3IoM8bBM3VVJ7LtOA3pDH7FEttOxiiTXUdhogzbthLX2j1UU0KN3paNak2haEMb-gYkGY70V-7roh5MaT6Lo6BdIJMMYXUowqnz9SIJBHTPJUao0k4PiKKCtLqyOKRwQ7y9VODxbxWRMYr7ibs7ktB313kGDnNZ3~AK7xw6u5RvIbhBBBWBYC5Wk0iWHTLWVIKtWLGHrKrx-WoLdYisbF7EJFnS9jOcKyg__",
+    "file": "D:\\Eutech\\3d-converter-app v2\\models\\1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb",
+    "createdAt": "2026-04-24T06:32:56.291Z"
+  },
+  {
+    "taskId": "1a1a0efd-87f9-496e-b0cb-7f01f3fbf273",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/1a1a0efd-87f9-496e-b0cb-7f01f3fbf273/tripo_pbr_model_1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvMWExYTBlZmQtODdmOS00OTZlLWIwY2ItN2YwMWYzZmJmMjczL3RyaXBvX3Bicl9tb2RlbF8xYTFhMGVmZC04N2Y5LTQ5NmUtYjBjYi03ZjAxZjNmYmYyNzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=cRgovi3r6J~kXlG9bhIVLRMI5tdBqAV7iablqA7GaSt2WiEECvW2DF9CM2PAz-SRHGX0hznY8tl7bpf-P0xmpE0Z2Ubo100tBn9vGc4UKfBrrLrwDQkP3IoM8bBM3VVJ7LtOA3pDH7FEttOxiiTXUdhogzbthLX2j1UU0KN3paNak2haEMb-gYkGY70V-7roh5MaT6Lo6BdIJMMYXUowqnz9SIJBHTPJUao0k4PiKKCtLqyOKRwQ7y9VODxbxWRMYr7ibs7ktB313kGDnNZ3~AK7xw6u5RvIbhBBBWBYC5Wk0iWHTLWVIKtWLGHrKrx-WoLdYisbF7EJFnS9jOcKyg__",
+    "file": "D:\\Eutech\\3d-converter-app v2\\models\\1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb",
+    "createdAt": "2026-04-24T06:32:54.140Z"
+  },
+  {
+    "taskId": "1a1a0efd-87f9-496e-b0cb-7f01f3fbf273",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/1a1a0efd-87f9-496e-b0cb-7f01f3fbf273/tripo_pbr_model_1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvMWExYTBlZmQtODdmOS00OTZlLWIwY2ItN2YwMWYzZmJmMjczL3RyaXBvX3Bicl9tb2RlbF8xYTFhMGVmZC04N2Y5LTQ5NmUtYjBjYi03ZjAxZjNmYmYyNzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=cRgovi3r6J~kXlG9bhIVLRMI5tdBqAV7iablqA7GaSt2WiEECvW2DF9CM2PAz-SRHGX0hznY8tl7bpf-P0xmpE0Z2Ubo100tBn9vGc4UKfBrrLrwDQkP3IoM8bBM3VVJ7LtOA3pDH7FEttOxiiTXUdhogzbthLX2j1UU0KN3paNak2haEMb-gYkGY70V-7roh5MaT6Lo6BdIJMMYXUowqnz9SIJBHTPJUao0k4PiKKCtLqyOKRwQ7y9VODxbxWRMYr7ibs7ktB313kGDnNZ3~AK7xw6u5RvIbhBBBWBYC5Wk0iWHTLWVIKtWLGHrKrx-WoLdYisbF7EJFnS9jOcKyg__",
+    "file": "D:\\Eutech\\3d-converter-app v2\\models\\1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb",
+    "createdAt": "2026-04-24T06:32:52.139Z"
+  },
+  {
+    "taskId": "1a1a0efd-87f9-496e-b0cb-7f01f3fbf273",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/1a1a0efd-87f9-496e-b0cb-7f01f3fbf273/tripo_pbr_model_1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvMWExYTBlZmQtODdmOS00OTZlLWIwY2ItN2YwMWYzZmJmMjczL3RyaXBvX3Bicl9tb2RlbF8xYTFhMGVmZC04N2Y5LTQ5NmUtYjBjYi03ZjAxZjNmYmYyNzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=cRgovi3r6J~kXlG9bhIVLRMI5tdBqAV7iablqA7GaSt2WiEECvW2DF9CM2PAz-SRHGX0hznY8tl7bpf-P0xmpE0Z2Ubo100tBn9vGc4UKfBrrLrwDQkP3IoM8bBM3VVJ7LtOA3pDH7FEttOxiiTXUdhogzbthLX2j1UU0KN3paNak2haEMb-gYkGY70V-7roh5MaT6Lo6BdIJMMYXUowqnz9SIJBHTPJUao0k4PiKKCtLqyOKRwQ7y9VODxbxWRMYr7ibs7ktB313kGDnNZ3~AK7xw6u5RvIbhBBBWBYC5Wk0iWHTLWVIKtWLGHrKrx-WoLdYisbF7EJFnS9jOcKyg__",
+    "file": "D:\\Eutech\\3d-converter-app v2\\models\\1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb",
+    "createdAt": "2026-04-24T06:32:51.239Z"
+  },
+  {
+    "taskId": "1a1a0efd-87f9-496e-b0cb-7f01f3fbf273",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/1a1a0efd-87f9-496e-b0cb-7f01f3fbf273/tripo_pbr_model_1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvMWExYTBlZmQtODdmOS00OTZlLWIwY2ItN2YwMWYzZmJmMjczL3RyaXBvX3Bicl9tb2RlbF8xYTFhMGVmZC04N2Y5LTQ5NmUtYjBjYi03ZjAxZjNmYmYyNzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=cRgovi3r6J~kXlG9bhIVLRMI5tdBqAV7iablqA7GaSt2WiEECvW2DF9CM2PAz-SRHGX0hznY8tl7bpf-P0xmpE0Z2Ubo100tBn9vGc4UKfBrrLrwDQkP3IoM8bBM3VVJ7LtOA3pDH7FEttOxiiTXUdhogzbthLX2j1UU0KN3paNak2haEMb-gYkGY70V-7roh5MaT6Lo6BdIJMMYXUowqnz9SIJBHTPJUao0k4PiKKCtLqyOKRwQ7y9VODxbxWRMYr7ibs7ktB313kGDnNZ3~AK7xw6u5RvIbhBBBWBYC5Wk0iWHTLWVIKtWLGHrKrx-WoLdYisbF7EJFnS9jOcKyg__",
+    "file": "D:\\Eutech\\3d-converter-app v2\\models\\1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb",
+    "createdAt": "2026-04-24T06:32:49.941Z"
+  },
+  {
+    "taskId": "1a1a0efd-87f9-496e-b0cb-7f01f3fbf273",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/1a1a0efd-87f9-496e-b0cb-7f01f3fbf273/tripo_pbr_model_1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvMWExYTBlZmQtODdmOS00OTZlLWIwY2ItN2YwMWYzZmJmMjczL3RyaXBvX3Bicl9tb2RlbF8xYTFhMGVmZC04N2Y5LTQ5NmUtYjBjYi03ZjAxZjNmYmYyNzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=cRgovi3r6J~kXlG9bhIVLRMI5tdBqAV7iablqA7GaSt2WiEECvW2DF9CM2PAz-SRHGX0hznY8tl7bpf-P0xmpE0Z2Ubo100tBn9vGc4UKfBrrLrwDQkP3IoM8bBM3VVJ7LtOA3pDH7FEttOxiiTXUdhogzbthLX2j1UU0KN3paNak2haEMb-gYkGY70V-7roh5MaT6Lo6BdIJMMYXUowqnz9SIJBHTPJUao0k4PiKKCtLqyOKRwQ7y9VODxbxWRMYr7ibs7ktB313kGDnNZ3~AK7xw6u5RvIbhBBBWBYC5Wk0iWHTLWVIKtWLGHrKrx-WoLdYisbF7EJFnS9jOcKyg__",
+    "file": "D:\\Eutech\\3d-converter-app v2\\models\\1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb",
+    "createdAt": "2026-04-24T06:32:48.301Z"
+  },
+  {
+    "taskId": "1a1a0efd-87f9-496e-b0cb-7f01f3fbf273",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/1a1a0efd-87f9-496e-b0cb-7f01f3fbf273/tripo_pbr_model_1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvMWExYTBlZmQtODdmOS00OTZlLWIwY2ItN2YwMWYzZmJmMjczL3RyaXBvX3Bicl9tb2RlbF8xYTFhMGVmZC04N2Y5LTQ5NmUtYjBjYi03ZjAxZjNmYmYyNzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=cRgovi3r6J~kXlG9bhIVLRMI5tdBqAV7iablqA7GaSt2WiEECvW2DF9CM2PAz-SRHGX0hznY8tl7bpf-P0xmpE0Z2Ubo100tBn9vGc4UKfBrrLrwDQkP3IoM8bBM3VVJ7LtOA3pDH7FEttOxiiTXUdhogzbthLX2j1UU0KN3paNak2haEMb-gYkGY70V-7roh5MaT6Lo6BdIJMMYXUowqnz9SIJBHTPJUao0k4PiKKCtLqyOKRwQ7y9VODxbxWRMYr7ibs7ktB313kGDnNZ3~AK7xw6u5RvIbhBBBWBYC5Wk0iWHTLWVIKtWLGHrKrx-WoLdYisbF7EJFnS9jOcKyg__",
+    "file": "D:\\Eutech\\3d-converter-app v2\\models\\1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb",
+    "createdAt": "2026-04-24T06:32:47.267Z"
+  },
+  {
+    "taskId": "1a1a0efd-87f9-496e-b0cb-7f01f3fbf273",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/1a1a0efd-87f9-496e-b0cb-7f01f3fbf273/tripo_pbr_model_1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvMWExYTBlZmQtODdmOS00OTZlLWIwY2ItN2YwMWYzZmJmMjczL3RyaXBvX3Bicl9tb2RlbF8xYTFhMGVmZC04N2Y5LTQ5NmUtYjBjYi03ZjAxZjNmYmYyNzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=cRgovi3r6J~kXlG9bhIVLRMI5tdBqAV7iablqA7GaSt2WiEECvW2DF9CM2PAz-SRHGX0hznY8tl7bpf-P0xmpE0Z2Ubo100tBn9vGc4UKfBrrLrwDQkP3IoM8bBM3VVJ7LtOA3pDH7FEttOxiiTXUdhogzbthLX2j1UU0KN3paNak2haEMb-gYkGY70V-7roh5MaT6Lo6BdIJMMYXUowqnz9SIJBHTPJUao0k4PiKKCtLqyOKRwQ7y9VODxbxWRMYr7ibs7ktB313kGDnNZ3~AK7xw6u5RvIbhBBBWBYC5Wk0iWHTLWVIKtWLGHrKrx-WoLdYisbF7EJFnS9jOcKyg__",
+    "file": "D:\\Eutech\\3d-converter-app v2\\models\\1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb",
+    "createdAt": "2026-04-24T06:32:47.226Z"
+  },
+  {
+    "taskId": "1a1a0efd-87f9-496e-b0cb-7f01f3fbf273",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/1a1a0efd-87f9-496e-b0cb-7f01f3fbf273/tripo_pbr_model_1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvMWExYTBlZmQtODdmOS00OTZlLWIwY2ItN2YwMWYzZmJmMjczL3RyaXBvX3Bicl9tb2RlbF8xYTFhMGVmZC04N2Y5LTQ5NmUtYjBjYi03ZjAxZjNmYmYyNzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=cRgovi3r6J~kXlG9bhIVLRMI5tdBqAV7iablqA7GaSt2WiEECvW2DF9CM2PAz-SRHGX0hznY8tl7bpf-P0xmpE0Z2Ubo100tBn9vGc4UKfBrrLrwDQkP3IoM8bBM3VVJ7LtOA3pDH7FEttOxiiTXUdhogzbthLX2j1UU0KN3paNak2haEMb-gYkGY70V-7roh5MaT6Lo6BdIJMMYXUowqnz9SIJBHTPJUao0k4PiKKCtLqyOKRwQ7y9VODxbxWRMYr7ibs7ktB313kGDnNZ3~AK7xw6u5RvIbhBBBWBYC5Wk0iWHTLWVIKtWLGHrKrx-WoLdYisbF7EJFnS9jOcKyg__",
+    "file": "D:\\Eutech\\3d-converter-app v2\\models\\1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb",
+    "createdAt": "2026-04-24T06:32:46.783Z"
+  },
+  {
+    "taskId": "1a1a0efd-87f9-496e-b0cb-7f01f3fbf273",
+    "modelUrl": "https://tripo-data.rg1.data.tripo3d.com/tcli_ccff9c1d92a5495ebfab3d389dab2f31/20260424/1a1a0efd-87f9-496e-b0cb-7f01f3fbf273/tripo_pbr_model_1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb?Key-Pair-Id=K1676C64NMVM2J&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90cmlwby1kYXRhLnJnMS5kYXRhLnRyaXBvM2QuY29tL3RjbGlfY2NmZjljMWQ5MmE1NDk1ZWJmYWIzZDM4OWRhYjJmMzEvMjAyNjA0MjQvMWExYTBlZmQtODdmOS00OTZlLWIwY2ItN2YwMWYzZmJmMjczL3RyaXBvX3Bicl9tb2RlbF8xYTFhMGVmZC04N2Y5LTQ5NmUtYjBjYi03ZjAxZjNmYmYyNzMuZ2xiIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc3MDc1MjAwfX19XX0_&Signature=cRgovi3r6J~kXlG9bhIVLRMI5tdBqAV7iablqA7GaSt2WiEECvW2DF9CM2PAz-SRHGX0hznY8tl7bpf-P0xmpE0Z2Ubo100tBn9vGc4UKfBrrLrwDQkP3IoM8bBM3VVJ7LtOA3pDH7FEttOxiiTXUdhogzbthLX2j1UU0KN3paNak2haEMb-gYkGY70V-7roh5MaT6Lo6BdIJMMYXUowqnz9SIJBHTPJUao0k4PiKKCtLqyOKRwQ7y9VODxbxWRMYr7ibs7ktB313kGDnNZ3~AK7xw6u5RvIbhBBBWBYC5Wk0iWHTLWVIKtWLGHrKrx-WoLdYisbF7EJFnS9jOcKyg__",
+    "file": "D:\\Eutech\\3d-converter-app v2\\models\\1a1a0efd-87f9-496e-b0cb-7f01f3fbf273.glb",
+    "createdAt": "2026-04-24T06:32:46.347Z"
+  }
+]

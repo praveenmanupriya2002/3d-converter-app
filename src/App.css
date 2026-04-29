@@ -1,0 +1,584 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* ================= RESET ================= */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  overflow: hidden;
+  transition: 0.4s ease;
+}
+
+/* ================= THEMES ================= */
+body.dark {
+  background: radial-gradient(circle at top, #0a0f1f, #05060a 60%, #000);
+  color: #e5e7eb;
+}
+
+body.light {
+  background: radial-gradient(circle at top, #ffffff, #eef2ff, #dbeafe);
+  color: #0f172a;
+}
+
+/* ================= GLOW ================= */
+body::before,
+body::after {
+  content: "";
+  position: fixed;
+  width: 600px;
+  height: 600px;
+  filter: blur(140px);
+  opacity: 0.35;
+  z-index: -1;
+}
+
+body.dark::before { background: #4f7cff; top: -200px; left: -200px; }
+body.dark::after { background: #7c3aed; bottom: -200px; right: -200px; }
+
+body.light::before { background: #60a5fa; top: -200px; left: -200px; }
+body.light::after { background: #a78bfa; bottom: -200px; right: -200px; }
+
+/* ================= APP ================= */
+.app {
+  width: 100%;
+  height: 100vh;
+  padding: 18px;
+}
+
+/* ================= TOPBAR ================= */
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 6px;
+}
+
+.topbar h2 {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+/* ================= BUTTON ================= */
+.btn {
+  padding: 9px 14px;
+  border-radius: 12px;
+  border: 1px solid rgba(148,163,184,0.2);
+  background: rgba(255,255,255,0.06);
+  backdrop-filter: blur(12px);
+  color: inherit;
+  cursor: pointer;
+  transition: 0.25s;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0 25px rgba(79,124,255,0.25);
+}
+
+/* ================= GRID ================= */
+.grid {
+  display: grid;
+  grid-template-columns: 280px 1fr 1.7fr;
+  gap: 16px;
+  height: calc(100vh - 80px);
+  margin-top: 10px;
+}
+
+/* ================= PANELS ================= */
+.sidebar,
+.center,
+.right {
+  border-radius: 18px;
+  padding: 16px;
+  backdrop-filter: blur(24px);
+  border: 1px solid rgba(148,163,184,0.15);
+  transition: 0.3s;
+  overflow: hidden;
+}
+
+body.dark .sidebar,
+body.dark .center,
+body.dark .right {
+  background: rgba(15, 18, 30, 0.55);
+  box-shadow: 0 20px 60px rgba(0,0,0,0.4);
+}
+
+body.light .sidebar,
+body.light .center,
+body.light .right {
+  background: rgba(255,255,255,0.75);
+  box-shadow: 0 20px 50px rgba(0,0,0,0.08);
+}
+
+/* ================= SIDEBAR (with custom scrollbar) ================= */
+.sidebar {
+  overflow-y: auto;
+  overflow-x: hidden;
+  scrollbar-width: thin;
+  scrollbar-color: #4f7bfffe rgba(148,163,184,0.2);
+  
+}
+
+/* WebKit scrollbar (Chrome, Edge, Safari) */
+.sidebar::-webkit-scrollbar {
+  width: 6px;
+  
+}
+
+.sidebar::-webkit-scrollbar-track {
+  background: rgb(148, 163, 184);
+  border-radius: 10px;
+  
+}
+
+.sidebar::-webkit-scrollbar-thumb {
+  background: #4f7cff;
+  border-radius: 10px;
+  
+}
+
+.sidebar::-webkit-scrollbar-thumb:hover {
+  background: #7c3aed;
+  
+}
+
+/* For horizontal scroll (mobile fallback) */
+.sidebar {
+  scroll-behavior: smooth;
+  
+}
+
+/* ================= MODEL ITEMS ================= */
+.itemWrapper {
+  position: relative;
+  margin-top: 12px;
+  border-radius: 14px;
+  overflow: hidden;
+  transition: 0.8s;
+}
+
+.itemWrapper:hover {
+  border: 1px solid rgba(79,124,255,0.4);
+  padding: 5px;
+  transform: scale(1.02);
+  cursor: pointer;
+}
+
+.thumb {
+  width: 100%;
+  border-radius: 14px;
+}
+
+.deleteBtn {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  background: rgba(0,0,0,0.5);
+  border: 1px solid rgba(255,255,255,0.3);
+  color: white;
+  border-radius: 8px;
+  padding: 3px 6px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.deleteBtn:hover {
+  background: red;
+}
+
+/* ================= CENTER ================= */
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 15px;
+}
+
+.upload {
+  height: 380px;
+  border-radius: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px dashed rgba(79,124,255,0.4);
+  position: relative;
+  cursor: pointer;
+  overflow: hidden;
+  transition: 0.3s;
+}
+
+.upload::before {
+  content: "";
+  position: absolute;
+  width: 200%;
+  height: 100%;
+  background: linear-gradient(120deg, transparent, rgba(79,124,255,0.2), transparent);
+  animation: scan 4s infinite;
+}
+
+@keyframes scan {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+.upload:hover {
+  box-shadow: 0 0 40px rgba(79,124,255,0.25);
+}
+
+.uploadSuccess {
+  border: 2px dashed #00ff88 !important;
+  box-shadow: 0 0 18px rgba(0,255,136,0.35);
+}
+
+.preview {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  padding: 20px;
+}
+
+/* ================= GENERATE BUTTON ================= */
+.genBtn {
+  width: 100%;
+  padding: 15px;
+  border-radius: 14px;
+  border: none;
+  font-weight: 700;
+  color: white;
+  background: linear-gradient(135deg, #4f7cff, #7c3aed, #22c55e);
+  background-size: 300% 300%;
+  cursor: pointer;
+  animation: gradientMove 5s infinite linear;
+  transition: 0.3s;
+}
+
+.genBtn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 0 40px rgba(79,124,255,0.25);
+}
+
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* ================= PROGRESS ================= */
+.progress {
+  height: 8px;
+  border-radius: 999px;
+  background: rgba(148,163,184,0.15);
+  overflow: hidden;
+}
+
+.progressFill {
+  height: 100%;
+  background: linear-gradient(90deg, #4f7cff, #7c3aed, #22c55e);
+}
+
+canvas {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+/* ================= RIGHT ================= */
+.right {
+  position: relative;
+  min-height: 500px;
+  height: 100%;
+}
+
+.download {
+  position: absolute;
+  top: 25px;
+  right: 30px;
+  padding: 6px 12px;
+  border-radius: 12px;
+  background: linear-gradient(90deg, #4f7cff, #7c3aed, #22c55e);
+  color: white;
+  cursor: pointer;
+  border: none;
+}
+
+.download:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 0 40px rgba(79,124,255,0.25);
+}
+
+
+/* ================= EMPTY ================= */
+.empty {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.4;
+}
+
+/* ================= POPUP PREMIUM FIX ================= */
+body.dark .popup-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.65);
+  backdrop-filter: blur(18px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+  animation: fadeIn 0.25s ease;
+}
+
+body.light .popup-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.65);
+  backdrop-filter: blur(18px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+  animation: fadeIn 0.25s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.popup {
+  width: 92%;
+  max-width: 460px;
+  padding: 28px;
+  border-radius: 24px;
+  background: rgba(25, 25, 40, 0.78);
+  border: 1px solid rgba(255,255,255,0.12);
+  backdrop-filter: blur(28px);
+  color: white;
+  transform: scale(0.8) translateY(20px);
+  opacity: 0;
+  animation: popupIn 0.35s ease forwards;
+  
+}
+
+body.light .popup{
+  background: rgba(255, 255, 255, 0.78);
+  color: rgba(0, 0, 0, 0.83);
+  box-shadow: 0 20px 60px rgba(255, 255, 255, 0.5), 0 0 40px rgba(124,58,237,0.15);
+}
+
+body.dark .popup{
+  background: rgba(25, 25, 40, 0.708);
+  color: white;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.5), 0 0 40px rgba(124,58,237,0.15);
+}
+
+body.light .secondary {
+  background: rgba(25, 25, 40, 0.077);
+  color: rgb(9, 9, 9);
+}
+
+body.dark .secondary {
+  background: rgba(255, 255, 255, 0.159);
+  color: rgba(255, 255, 255, 0.83);
+}
+@keyframes popupIn {
+  to {
+    transform: scale(1) translateY(0);
+    opacity: 1;
+  }
+}
+
+.popup h3 {
+  font-size: 22px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.popup p {
+  font-size: 14px;
+  opacity: 0.85;
+  margin-bottom: 18px;
+  line-height: 1.5;
+}
+
+.popup .btn {
+  width: 100%;
+  padding: 12px;
+  margin-top: 10px;
+  border-radius: 14px;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.popup .primary {
+  background: linear-gradient(135deg, #4f7cff, #7c3aed, #22c55e);
+  background-size: 300% 300%;
+  color: white;
+  animation: gradientMove 5s infinite linear;
+}
+
+.popup .secondary {
+  background: rgba(255,255,255,0.08);
+  color: white;
+}
+
+.popup .btn:hover {
+  transform: translateY(-2px);
+}
+
+/* ================= RESPONSIVE + SCROLLBAR ENHANCEMENTS ================= */
+
+/* 🖥 Large screens (default already good) */
+@media (min-width: 1200px) {
+  .grid {
+    grid-template-columns: 280px 1fr 1.7fr;
+  }
+}
+
+/* 💻 Laptop / small desktop */
+@media (max-width: 1200px) {
+  .grid {
+    grid-template-columns: 240px 1fr 1.2fr;
+  }
+  .upload {
+    height: 320px;
+  }
+}
+
+/* 📟 Tablet */
+@media (max-width: 1024px) {
+  .grid {
+    grid-template-columns: 220px 1fr;
+    gap: 12px;
+  }
+  .right {
+    grid-column: 1 / -1;
+    height: 450px;
+  }
+ 
+  .center {
+    padding: 12px;
+  }
+  .upload {
+    height: 280px;
+  }
+  .topbar h2 {
+    font-size: 20px;
+  }
+}
+
+/* 📱 Mobile (major improvements) */
+@media (max-width: 768px) {
+  body {
+    overflow-y: auto;
+  }
+
+  .app {
+    height: auto;
+    padding: 12px;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+    height: auto;
+    gap: 14px;
+  }
+
+  /* Sidebar becomes horizontal scrollable row with custom style */
+  .sidebar {
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto;
+    overflow-y: hidden;
+    gap: 12px;
+    padding: 12px 8px;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+    scrollbar-color: #4f7cff rgba(148,163,184,0.2);
+  }
+
+  /* Custom scrollbar for horizontal scroll (webkit) */
+  .sidebar::-webkit-scrollbar {
+    height: 5px;
+  }
+  .sidebar::-webkit-scrollbar-track {
+    background: rgba(148,163,184,0.2);
+    border-radius: 20px;
+  }
+  .sidebar::-webkit-scrollbar-thumb {
+    background: #4f7cff;
+    border-radius: 20px;
+  }
+
+  .itemWrapper {
+    min-width: 130px;
+    flex-shrink: 0;
+    scroll-snap-align: start;
+    margin-top: 0;
+  }
+
+  .center {
+    order: 1;
+  }
+
+  .right {
+    order: 2;
+    height: 360px;
+  }
+
+  .upload {
+    height: 220px;
+  }
+
+  .genBtn {
+    padding: 12px;
+    font-size: 14px;
+  }
+
+  .topbar {
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+  }
+
+  /* Touch-friendly delete button */
+  .deleteBtn {
+    padding: 6px 10px;
+    font-size: 14px;
+  }
+}
+
+/* 📱 Small phones (up to 480px) */
+@media (max-width: 480px) {
+  .upload {
+    height: 180px;
+  }
+  .right {
+    height: 300px;
+  }
+  .topbar h2 {
+    font-size: 18px;
+  }
+  .btn {
+    padding: 7px 10px;
+    font-size: 12px;
+  }
+  .genBtn {
+    font-size: 13px;
+  }
+  .itemWrapper {
+    min-width: 100px;
+  }
+  .thumb {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    border-radius: 12px;
+  }
+}
