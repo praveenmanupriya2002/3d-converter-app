@@ -1,7 +1,6 @@
 [build]
   functions = "netlify/functions"
-  publish = "build"   # Create React App default build folder (if you use CRA)
-  # ඔබ Vite භාවිත කරන්නේ නම් publish = "dist"
+  publish = "dist"   
 
 [[redirects]]
   from = "/api/*"
